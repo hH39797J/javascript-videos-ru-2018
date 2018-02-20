@@ -14,6 +14,19 @@
 
 # События
 
+## OdessaFrontend Meetup #5
+
+Событие: http://odessafrontend.com/05/
+
+Дата: **31 января 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Webpack для самых маленьких. Никита Ротарь](https://youtu.be/YgmupTGXkR4) | 49:20 | [:notebook:](https://www.slideshare.net/odessafrontend/webpack-odessafrontend-meetup-5) |
+| [Freelance. Как все успеть и заработать денег? Иван Карабаджак](https://youtu.be/T9qbhZgAToo) | 29:40 | [:notebook:](https://www.slideshare.net/odessafrontend/freelance-odessafrontend-meetup-5) |
+| [CSS Grid: когда уже можно? Сергей Полющенков](https://youtu.be/4rctIgzM1mQ) | 47:33 | [:notebook:](https://odessafrontend.github.io/grid/#) |
+
+
 ## MinskJS Meetup #3
 
 Событие: https://minskjs.timepad.ru/event/606146/
