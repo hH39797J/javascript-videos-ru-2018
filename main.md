@@ -14,7 +14,6 @@
 
 # События
 
-
 ## MinskJS Meetup #3
 
 Событие: https://minskjs.timepad.ru/event/606146/
@@ -42,4 +41,8 @@
 
 
 # Учебные материалы
+
+| | | | |
+| --- | :---: | :---: | :---: |
+| [Основы React.js](https://learn.javascript.ru/screencast/react) | JavaScript.ru, Скринкаст | 12 видео | 24 января 2018 |
 
