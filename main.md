@@ -2,10 +2,12 @@
 
 Собрание видеозаписей докладов про [JavaScript](https://www.javascript.com/) за 2018 год.
 
-В основном на русском языке. 
+В основном на русском языке.
+
+Пожелания и вопросы пишите в [Issues](https://github.com/hH39797J/javascript-videos-ru-2018/issues).
 
 
-# Содержание
+## Содержание
 
 ??TOC??
 
@@ -37,4 +39,7 @@
 | [Максим Ерехинский - React Native & Native Widgets](https://youtu.be/wzB6mOblE1I) | 25:43 | [:notebook:](https://github.com/piterjs/piterjs.org/blob/gh-pages/events/21/Native%20Widgets%20with%20React%20Native.pdf) |
 | [Александр Канунников - AsyncDom](https://youtu.be/qZaby7iOVts) | 25:49 | [:notebook:](https://docs.google.com/presentation/d/12eFghswDeHfQWhZjh2B3vOsYc2DrBAcJLQr_6bGMfK8/edit#slide=id.p) |
 | [Илья Кашлаков - Рефакторинг платежного процесса Яндекс.Денег](https://youtu.be/-wM-JmF1-VM) | 31:22 | [:notebook:](https://github.com/piterjs/piterjs.org/blob/gh-pages/events/21/yamoney-refactoring.pdf) |
+
+
+# Учебные материалы
 
