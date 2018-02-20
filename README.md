@@ -12,6 +12,7 @@
 * [События](#%D0%A1%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F)
   * [OdessaFrontend Meetup \#5](#odessafrontend-meetup-5)
   * [MinskJS Meetup \#3](#minskjs-meetup-3)
+  * [Я\.Субботник по фронтенду](#%D0%AF%D0%A1%D1%83%D0%B1%D0%B1%D0%BE%D1%82%D0%BD%D0%B8%D0%BA-%D0%BF%D0%BE-%D1%84%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4%D1%83)
   * [PiterJS №21](#piterjs-21)
 * [Учебные материалы](#%D0%A3%D1%87%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5-%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B)
 
@@ -42,6 +43,22 @@
 | [JS Decorators — приоденьте свой код, Никита Дубко](https://youtu.be/VfF7GyNItps) | 26:19 | [:notebook:](https://mefody.github.io/talks/js-decorators/) |
 | [Сага о редаксе: redux-saga, Данила Дедков](https://youtu.be/R_DPcxk4ml8) | 31:32 | [:notebook:](https://drive.google.com/file/d/1OWakTpJh6V9GkYOtJmI4VleInZqXS39V/view) |
 | [Полный Spectre уязвимостей](https://youtu.be/hGzy17Nnc38) | 22:50 | [:notebook:](https://mefody.github.io/talks/spectre-panel-discussion/) + [:notebook:](https://drive.google.com/file/d/1ngH8qVbeAPgNjz4VNG-3K7_31rIBAWay/view) |
+
+
+## Я.Субботник по фронтенду
+
+Событие: https://events.yandex.ru/events/yasubbotnik/20-Jan-2018/
+
+Дата: **20 января 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Долой рутину — автоматизируй это! – Денис Чистяков](https://youtu.be/_bzxuQe7k_s) | 29:20 | [:notebook:](https://yadi.sk/i/gWwvrvSO3Rckwx) |
+| [Модульное тестирование интерфейсов в Headless Chrome – Дмитрий Андриянов](https://youtu.be/jUycQRFoOww) | 39:37 | [:notebook:](https://yadi.sk/i/rA7rKDav3Rcu3z) |
+| [Конвейер разработки интерфейсов Как его делаем мы – Сергей Сергеев](https://youtu.be/vdLVjvZrpYY) | 36:54 | [:notebook:](https://yadi.sk/i/8Uh11iEo3RcuJv) |
+| [Реактивные Турбо страницы Яндекса – Антон Виноградов](https://youtu.be/LpT17kyZMtQ) | 35:59 | [:notebook:](https://yadi.sk/i/DBEykyui3Rcxf6) |
+| [Как партнёрские интерфейсы Маркета переехали на React – Артур Кенжаев](https://youtu.be/uIM6m62_MWU) | 39:39 | [:notebook:](https://yadi.sk/i/JElF7jqD3Rd2S9) |
+| [Как я полюбил и возненавидел React Native – Андрей Мелихов](https://youtu.be/WOMnm8mrWFE) | 37:31 | [:notebook:](https://yadi.sk/i/hi9o7nGf3Rd7ia) |
 
 
 ## PiterJS №21
