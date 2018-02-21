@@ -14,6 +14,19 @@
 
 # События
 
+## UralJS #6
+
+Событие: https://habrahabr.ru/company/skbkontur/blog/349042/
+
+Дата: **08 февраля 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Николай Карев - this is зло](https://youtu.be/tQJ8YafbtUU) | 22:54 | [:notebook:](https://goo.gl/Vc7c37) |
+| [Михаил Шатихин — Безжалостная типизация](https://youtu.be/_00hPGacr18) | 30:57 | [:notebook:](https://goo.gl/E4fmL1) |
+| [Алексей Иванов — React и данные: Эффективные способы хранения и изменения стейта](https://youtu.be/W0vZQaWqopw) | 45:33 | [:notebook:](https://goo.gl/TXDCYL) |
+
+
 ## OdessaFrontend Meetup #5
 
 Событие: http://odessafrontend.com/05/
