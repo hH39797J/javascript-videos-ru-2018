@@ -22,9 +22,9 @@
 
 | | | |
 | --- | :---: | --- |
-| [Webpack для самых маленьких. Никита Ротарь](https://youtu.be/YgmupTGXkR4) | 49:20 | [:notebook:](https://www.slideshare.net/odessafrontend/webpack-odessafrontend-meetup-5) |
-| [Freelance. Как все успеть и заработать денег? Иван Карабаджак](https://youtu.be/T9qbhZgAToo) | 29:40 | [:notebook:](https://www.slideshare.net/odessafrontend/freelance-odessafrontend-meetup-5) |
-| [CSS Grid: когда уже можно? Сергей Полющенков](https://youtu.be/4rctIgzM1mQ) | 47:33 | [:notebook:](https://odessafrontend.github.io/grid/#) |
+| [Webpack для самых маленьких](https://youtu.be/YgmupTGXkR4) Никита Ротарь | 49:20 | [:notebook:](https://www.slideshare.net/odessafrontend/webpack-odessafrontend-meetup-5) |
+| [Freelance. Как все успеть и заработать денег?](https://youtu.be/T9qbhZgAToo) Иван Карабаджак | 29:40 | [:notebook:](https://www.slideshare.net/odessafrontend/freelance-odessafrontend-meetup-5) |
+| [CSS Grid: когда уже можно?](https://youtu.be/4rctIgzM1mQ) Сергей Полющенков | 47:33 | [:notebook:](https://odessafrontend.github.io/grid/#) |
 
 
 ## MinskJS Meetup #3
