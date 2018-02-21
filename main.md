@@ -73,5 +73,5 @@
 
 | | | | |
 | --- | :---: | :---: | :---: |
-| [Основы React.js](https://learn.javascript.ru/screencast/react) | JavaScript.ru, Скринкаст | 12 видео | 24 января 2018 |
+| [Основы React.js](https://learn.javascript.ru/screencast/react) | JavaScript.ru, Роман Якобчук, Илья Кантор, Скринкаст | 12 видео | 24 января 2018 |
 
