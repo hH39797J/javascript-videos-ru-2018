@@ -14,6 +14,19 @@
 
 # События
 
+## Встреча SPB Frontend, февраль 2018
+
+Событие: https://spb-frontend-events.timepad.ru/event/664476/
+
+Дата: **21 февраля 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Андрей Ситник — «Чему нас могут научить ошибки космической индустрии»](https://youtu.be/olDoZ5SS_uo) | 36:48 | [:notebook:](http://slides.com/ai/space-vs-it-ru/#/) |
+| [Дмитрий Долженко — «Как я ускорял загрузку видео в ok.ru»](https://youtu.be/vmSsEmwh9k4) | 36:31 | [:notebook:](https://speakerdeck.com/dsdolzhenko/kak-ia-uskorial-zaghruzku-vidieo-v-ok-dot-ru) |
+| [Илья Кашлаков — «Jenkins на службе фронтенд разработки»](https://youtu.be/DA_R8mIaRJg) | 18:20 | [:notebook:](https://yadi.sk/i/C_1ytXoI3Se7WP) |
+
+
 ## UralJS #6
 
 Событие: https://habrahabr.ru/company/skbkontur/blog/349042/
