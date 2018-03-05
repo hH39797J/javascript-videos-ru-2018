@@ -11,6 +11,7 @@
 
 * [События](#%D0%A1%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F)
   * [Встреча SPB Frontend, февраль 2018](#%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B0-spb-frontend-%D1%84%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8C-2018)
+  * [PiterJS №22](#piterjs-22)
   * [RS Conf 2018](#rs-conf-2018)
   * [UralJS \#6](#uraljs-6)
   * [OdessaFrontend Meetup \#5](#odessafrontend-meetup-5)
@@ -33,6 +34,18 @@
 | [Андрей Ситник — «Чему нас могут научить ошибки космической индустрии»](https://youtu.be/olDoZ5SS_uo) | 36:48 | [:notebook:](http://slides.com/ai/space-vs-it-ru/#/) |
 | [Дмитрий Долженко — «Как я ускорял загрузку видео в ok.ru»](https://youtu.be/vmSsEmwh9k4) | 36:31 | [:notebook:](https://speakerdeck.com/dsdolzhenko/kak-ia-uskorial-zaghruzku-vidieo-v-ok-dot-ru) |
 | [Илья Кашлаков — «Jenkins на службе фронтенд разработки»](https://youtu.be/DA_R8mIaRJg) | 18:20 | [:notebook:](https://yadi.sk/i/C_1ytXoI3Se7WP) |
+
+
+## PiterJS №22
+
+Событие: https://medium.com/piterjs/piterjs22-c35933c9d88a
+
+Дата: **15 февраля 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Тим Маринин - SvelteJS - "магический" фреймворк](https://youtu.be/H8FCVTSJ3u8) | 26:49 | [:notebook:](https://marinin.xyz/slides/svelte/assets/player/KeynoteDHTMLPlayer.html#0) |
+| [Алексей Золотых - рефакторинг](https://youtu.be/hfmHymOCIA0) | 26:32 | [:notebook:](https://zolotyh.github.io/refactoring2/#/) |
 
 
 ## RS Conf 2018
