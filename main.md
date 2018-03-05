@@ -27,6 +27,18 @@
 | [Илья Кашлаков — «Jenkins на службе фронтенд разработки»](https://youtu.be/DA_R8mIaRJg) | 18:20 | [:notebook:](https://yadi.sk/i/C_1ytXoI3Se7WP) |
 
 
+## PiterJS №22
+
+Событие: https://medium.com/piterjs/piterjs22-c35933c9d88a
+
+Дата: **15 февраля 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Тим Маринин - SvelteJS - "магический" фреймворк](https://youtu.be/H8FCVTSJ3u8) | 26:49 | [:notebook:](https://marinin.xyz/slides/svelte/assets/player/KeynoteDHTMLPlayer.html#0) |
+| [Алексей Золотых - рефакторинг](https://youtu.be/hfmHymOCIA0) | 26:32 | [:notebook:](https://zolotyh.github.io/refactoring2/#/) |
+
+
 ## RS Conf 2018
 
 Событие: https://2018.conf.rollingscopes.com/index.html
