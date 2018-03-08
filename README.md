@@ -10,6 +10,7 @@
 ## Содержание
 
 * [События](#%D0%A1%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F)
+  * [MoscowJS 40](#moscowjs-40)
   * [Встреча SPB Frontend, февраль 2018](#%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B0-spb-frontend-%D1%84%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8C-2018)
   * [PiterJS №22](#piterjs-22)
   * [RS Conf 2018](#rs-conf-2018)
@@ -22,6 +23,20 @@
 
 
 # События
+
+## MoscowJS 40
+
+Событие: https://habrahabr.ru/company/avito/blog/350684/
+
+Дата: **01 марта 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Скриншоты как сервис. Сергей Мелюков (Avito)](https://youtu.be/B_gLzbgJo98) | 27:14 | [:notebook:](https://cloud.mail.ru/public/6ww5/gNyR9rpVx) |
+| [Как начать использовать AST. Иван Стрелков (Avito)](https://youtu.be/qnol1QVvYu0) | 24:36 | [:notebook:](http://istrel.github.io/ast-getting-started/#) |
+| [DX w/ Flow. Александр Лобашев (Raiffeisen)](https://youtu.be/PKmqTiiPEw4) | 21:09 | [:notebook:](https://cloud.mail.ru/public/M3pd/s8HyLYmSH) |
+| [Обработка текстов в JavaScript для чайников. Дмитрий Шмаков (Банк «Открытие»)](https://youtu.be/ATmtPyLmMdY) | 18:05 | [:notebook:](https://cloud.mail.ru/public/58pk/ckocL8veR) |
+
 
 ## Встреча SPB Frontend, февраль 2018
 
