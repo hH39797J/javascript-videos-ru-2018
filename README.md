@@ -60,7 +60,7 @@
 | --- | :---: | --- |
 | ~~Tricky JS and WebGL practices to achieve the best performance on mobile~~ Andrei Vouchanka | | |
 | [Developing and maintaining a coding community](https://youtu.be/YNAtuKUx9Og) Kristi Progri | 31:07 | [:notebook:](https://drive.google.com/file/d/1B8Y8SUTFublaR5jovGYHOzdJqeNLSIWR/view) |
-| ~~Сказ о microservices~~ Konstantin Krivlenia | | |
+| [Сказ о microservices](https://youtu.be/VohMqI_HY1I) Konstantin Krivlenia | 40:26 | |
 | [Cross browser extensions - lets make one](https://youtu.be/13rl5j24BbY) Trishul Goel | 22:21 | |
 | [Introduction to Micro Frontends](https://youtu.be/LH3QoDWAD8k) Ivan Jovanovic | 37:04 | [:notebook:](https://speakerdeck.com/ivanjov/introduction-to-micro-frontends-rsconf-minsk-2018) |
 | [Пробуем Flow в бою](https://youtu.be/xSHPFcdVj2A) Alexander Shushunov | 34:33 | [:notebook:](https://drive.google.com/file/d/1mo8uXoxKsk1Dsj5kYI69DrQucuZcV_AP/view) |
@@ -68,7 +68,7 @@
 | [Что не так с мобильным вебом](https://youtu.be/5aNhBdyv9-4) Denis Ilin | 35:04 | [:notebook:](https://www.dropbox.com/s/ea1d464ozfwazik/%D0%94%D0%B5%D0%BD%D0%B8%D1%81%20%D0%98%D0%BB%D1%8C%D0%B8%D0%BD%20-%20%D0%A7%D1%82%D0%BE%20%D0%BD%D0%B5%20%D1%82%D0%B0%D0%BA%20%D1%81%20%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%BC%20%D0%B2%D0%B5%D0%B1%D0%BE%D0%BC%20RSConf.pdf?dl=0) |
 | [Journey through VR and AR with React](https://youtu.be/2G6Eo6Z9n9I) Tomasz Łakomy | 28:23 | [:notebook:](https://tlakomy.github.io/react-vr-ar/#/) |
 | [How to make mobile web apps better with Web APIs](https://youtu.be/AlRCcx5g3L4) Timofey Lavrenyuk | 31:05 | |
-| ~~Rock’n’scroll~~ Anna Selezniova | | [:notebook:](http://askd.rocks/pres/scroll/) |
+| [Rock’n’scroll](https://youtu.be/oBkcozjgtuA) Anna Selezniova | 38:00 | [:notebook:](http://askd.rocks/pres/scroll/) |
 | [Beyond React](https://youtu.be/b6vD9ASIoxo) Marek Piasecki | 39:00 | [:notebook:](https://drive.google.com/open?id=1jMPZKs2ORGZVsg5mSir9v5QNMlgURMzm) |
 | [On JAM Stack Architectures](https://youtu.be/s-v3WkIyUck) Ilya Pukhalski | 35:39 | |
 | [Stream API, through Redux-Observable in Electron-based app](https://youtu.be/57m27q_xE68) Ales Tsvil | 26:15 | |
