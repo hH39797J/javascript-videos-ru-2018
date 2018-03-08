@@ -14,6 +14,20 @@
 
 # События
 
+## MoscowJS 40
+
+Событие: https://habrahabr.ru/company/avito/blog/350684/
+
+Дата: **01 марта 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Скриншоты как сервис. Сергей Мелюков (Avito)](https://youtu.be/B_gLzbgJo98) | 27:14 | [:notebook:](https://cloud.mail.ru/public/6ww5/gNyR9rpVx) |
+| [Как начать использовать AST. Иван Стрелков (Avito)](https://youtu.be/qnol1QVvYu0) | 24:36 | [:notebook:](http://istrel.github.io/ast-getting-started/#) |
+| [DX w/ Flow. Александр Лобашев (Raiffeisen)](https://youtu.be/PKmqTiiPEw4) | 21:09 | [:notebook:](https://cloud.mail.ru/public/M3pd/s8HyLYmSH) |
+| [Обработка текстов в JavaScript для чайников. Дмитрий Шмаков (Банк «Открытие»)](https://youtu.be/ATmtPyLmMdY) | 18:05 | [:notebook:](https://cloud.mail.ru/public/58pk/ckocL8veR) |
+
+
 ## Встреча SPB Frontend, февраль 2018
 
 Событие: https://spb-frontend-events.timepad.ru/event/664476/
