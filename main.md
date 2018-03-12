@@ -192,3 +192,10 @@
 | --- | :---: | :---: | :---: |
 | [Основы React.js](https://learn.javascript.ru/screencast/react) | JavaScript.ru, Роман Якобчук, Илья Кантор, Скринкаст | 12 видео | 24 января 2018 |
 
+
+# Подкастинг
+
+| | | | |
+| --- | :---: | :---: | :---: |
+| [Пятиминутка Angular](https://www.youtube.com/channel/UCQGzS3MitYnnjTRn2vanOmg) | Алексей Охрименко | 10+ видео | 23 января 2018 (#8) |
+
