@@ -41,6 +41,20 @@
 | [Илья Кашлаков — «Jenkins на службе фронтенд разработки»](https://youtu.be/DA_R8mIaRJg) | 18:20 | [:notebook:](https://yadi.sk/i/C_1ytXoI3Se7WP) |
 
 
+## KharkivFrontend Meetup #_2
+
+Событие: https://www.facebook.com/events/558956724480783/
+
+Дата: **17 февраля 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Контекст наложения - кто ты?](https://youtu.be/0-FR5nkHlYU) Влад Антипенко | 26:29 | [:notebook:](https://drive.google.com/drive/folders/1lSJXwKT7JuzuTHr1hm7JFuzTr1sIkWpu) |
+| [Grafana и Frontend, кастомная визуализация серверной инфраструктуры](https://youtu.be/ZyUHzLylcGA) Дарья Лиманская | 22:29 | [:notebook:](https://drive.google.com/drive/folders/1qGsqMzZlNzL1-8QJWyj-4AOY9kAXiKYN) |
+| [It's a test!](https://youtu.be/ArItIDpVL58) Максим Нечесонов | 24:14 | [:notebook:](https://drive.google.com/drive/folders/1nOocjNRVZT6XV6RIh_REX6-OfEkA25gL) |
+| [Безопасность веб-приложений](https://youtu.be/0BwpXOTj_P0) Елена Шаровар | 57:09 | [:notebook:](https://drive.google.com/drive/folders/1vsufgRXSOgG5QN8uk0urU8nQAkMF1G_k) |
+
+
 ## PiterJS №22
 
 Событие: https://medium.com/piterjs/piterjs22-c35933c9d88a
