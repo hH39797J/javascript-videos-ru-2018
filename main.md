@@ -191,7 +191,7 @@
 | | | | |
 | --- | :---: | :---: | :---: |
 | [Основы React.js](https://learn.javascript.ru/screencast/react) | JavaScript.ru, Роман Якобчук, Илья Кантор, Скринкаст | 12 видео | 24 января 2018 |
-
+| [Введение в Flow](https://www.youtube.com/playlist?list=PLvTBThJr861zvILAjREUakZ6E5l7h7lsZ) | Javascript.Ninja, Илья Климов | 17+ видео | 31 декабря 2017 (00/20) |
 
 # Подкастинг
 
