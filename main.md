@@ -14,6 +14,19 @@
 
 # События
 
+## AngularKyiv Meetup #4
+
+Событие: http://telegra.ph/AngularKyiv-Meetup-4-02-23
+
+Дата: **01 марта 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Dynamic Components - Oleksandr Tsikhotskikh](https://youtu.be/dx6hB4_r90U) | 28:14 | [:notebook:](https://docs.google.com/presentation/d/18ophcPlS_MRH3BLq2I4AdfOgb-nRBncn-2ZsfmpyYEE/edit#slide=id.p) |
+| [Change Detection in Depth - Sebastien Vasylets](https://youtu.be/4wWdwNV4fvE) | 56:44 | [:notebook:](http://slides.com/sebastienvasylets-sebastienv/angular-change-detection#/) |
+| [Angular Components Testing - Marianna Yasko](https://youtu.be/rtfDrGtOLwY) | 14:26 | [:notebook:](https://docs.google.com/presentation/d/1I8TP5aDsDpwkTvHU33b4qNAZquQ7KZHlSmCW3RRcTcc/edit#slide=id.p3) |
+
+
 ## MoscowJS 40
 
 Событие: https://habrahabr.ru/company/avito/blog/350684/
