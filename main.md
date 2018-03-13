@@ -41,6 +41,21 @@
 | [Обработка текстов в JavaScript для чайников. Дмитрий Шмаков (Банк «Открытие»)](https://youtu.be/ATmtPyLmMdY) | 18:05 | [:notebook:](https://cloud.mail.ru/public/58pk/ckocL8veR) |
 
 
+## KyivJS#17 February 2018
+
+Событие: http://kyivjs.org/ (22 лютого 2018)
+
+Дата: **22 февраля 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Sensing Your World With Espruino - Eduard Tretyakov](https://youtu.be/sGK3FhAnAZk) | 52:03 | [:notebook:](https://drive.google.com/file/d/17W_xc1JI2pVJgaXZVag0UeM9HFUO7gQa/view) |
+| [Metarhia Will Come - Order Will Bring - Timur Shemsedinov feat Oleksiy Orlenko](https://youtu.be/pFULDKyyqp8) | 47:31 | [:notebook:](https://www.slideshare.net/tshemsedinov/metarhia-kievjs-22feb2018) |
+| [Try catch me if you can - Mark Orel](https://youtu.be/GC-E8qIYchE) | 9:50 | [:notebook:](http://slides.com/markorel/try-catch#/) |
+| [Set/WeakSet - Kyrylo Yakovenko](https://youtu.be/Wfg-_ljqaTA) | 13:17 | [:notebook:](https://drive.google.com/file/d/1DY4-P1p2fh-uLcfeGsHNmzlA48Ap-nmf/view) |
+| [Frontend Digest - Gregory Shehet](https://youtu.be/1DsYgEPTUrA) | 6:51 | [:notebook:](https://drive.google.com/file/d/1AwvzL4mLHycn9zYaFNRTJ98UY79L3cAM/view) |
+
+
 ## Встреча SPB Frontend, февраль 2018
 
 Событие: https://spb-frontend-events.timepad.ru/event/664476/
