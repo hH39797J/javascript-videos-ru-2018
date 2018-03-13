@@ -10,6 +10,7 @@
 ## Содержание
 
 * [События](#%D0%A1%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F)
+  * [AngularKyiv Meetup \#4](#angularkyiv-meetup-4)
   * [MoscowJS 40](#moscowjs-40)
   * [Встреча SPB Frontend, февраль 2018](#%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B0-spb-frontend-%D1%84%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8C-2018)
   * [KharkivFrontend Meetup \#\_2](#kharkivfrontend-meetup-_2)
@@ -25,6 +26,19 @@
 
 
 # События
+
+## AngularKyiv Meetup #4
+
+Событие: http://telegra.ph/AngularKyiv-Meetup-4-02-23
+
+Дата: **01 марта 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Dynamic Components - Oleksandr Tsikhotskikh](https://youtu.be/dx6hB4_r90U) | 28:14 | [:notebook:](https://docs.google.com/presentation/d/18ophcPlS_MRH3BLq2I4AdfOgb-nRBncn-2ZsfmpyYEE/edit#slide=id.p) |
+| [Change Detection in Depth - Sebastien Vasylets](https://youtu.be/4wWdwNV4fvE) | 56:44 | [:notebook:](http://slides.com/sebastienvasylets-sebastienv/angular-change-detection#/) |
+| [Angular Components Testing - Marianna Yasko](https://youtu.be/rtfDrGtOLwY) | 14:26 | [:notebook:](https://docs.google.com/presentation/d/1I8TP5aDsDpwkTvHU33b4qNAZquQ7KZHlSmCW3RRcTcc/edit#slide=id.p3) |
+
 
 ## MoscowJS 40
 
