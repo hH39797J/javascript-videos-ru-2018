@@ -12,6 +12,7 @@
 * [События](#%D0%A1%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F)
   * [AngularKyiv Meetup \#4](#angularkyiv-meetup-4)
   * [MoscowJS 40](#moscowjs-40)
+  * [KyivJS\#17 February 2018](#kyivjs17-february-2018)
   * [Встреча SPB Frontend, февраль 2018](#%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B0-spb-frontend-%D1%84%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8C-2018)
   * [KharkivFrontend Meetup \#\_2](#kharkivfrontend-meetup-_2)
   * [PiterJS №22](#piterjs-22)
@@ -52,6 +53,21 @@
 | [Как начать использовать AST. Иван Стрелков (Avito)](https://youtu.be/qnol1QVvYu0) | 24:36 | [:notebook:](http://istrel.github.io/ast-getting-started/#) |
 | [DX w/ Flow. Александр Лобашев (Raiffeisen)](https://youtu.be/PKmqTiiPEw4) | 21:09 | [:notebook:](https://cloud.mail.ru/public/M3pd/s8HyLYmSH) |
 | [Обработка текстов в JavaScript для чайников. Дмитрий Шмаков (Банк «Открытие»)](https://youtu.be/ATmtPyLmMdY) | 18:05 | [:notebook:](https://cloud.mail.ru/public/58pk/ckocL8veR) |
+
+
+## KyivJS#17 February 2018
+
+Событие: http://kyivjs.org/ (22 лютого 2018)
+
+Дата: **22 февраля 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Sensing Your World With Espruino - Eduard Tretyakov](https://youtu.be/sGK3FhAnAZk) | 52:03 | [:notebook:](https://drive.google.com/file/d/17W_xc1JI2pVJgaXZVag0UeM9HFUO7gQa/view) |
+| [Metarhia Will Come - Order Will Bring - Timur Shemsedinov feat Oleksiy Orlenko](https://youtu.be/pFULDKyyqp8) | 47:31 | [:notebook:](https://www.slideshare.net/tshemsedinov/metarhia-kievjs-22feb2018) |
+| [Try catch me if you can - Mark Orel](https://youtu.be/GC-E8qIYchE) | 9:50 | [:notebook:](http://slides.com/markorel/try-catch#/) |
+| [Set/WeakSet - Kyrylo Yakovenko](https://youtu.be/Wfg-_ljqaTA) | 13:17 | [:notebook:](https://drive.google.com/file/d/1DY4-P1p2fh-uLcfeGsHNmzlA48Ap-nmf/view) |
+| [Frontend Digest - Gregory Shehet](https://youtu.be/1DsYgEPTUrA) | 6:51 | [:notebook:](https://drive.google.com/file/d/1AwvzL4mLHycn9zYaFNRTJ98UY79L3cAM/view) |
 
 
 ## Встреча SPB Frontend, февраль 2018
