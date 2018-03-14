@@ -14,6 +14,18 @@
 
 # События
 
+## Необычный Javascript
+
+Событие: https://www.mera.ru/career/calendar/struktury-dannykh-funktsionalnogo-programmirovaniia-i-sovremennyi-js
+
+Дата: **01 марта 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Структуры данных функционального программирования](https://yadi.sk/i/jHX0HtNm3T2rUu) Артем Пученкин | 53:32 | |
+| [Современный JS – итераторы, генераторы, async/await](https://yadi.sk/i/3pPACQBR3T2r9V) Дмитрий Злыгин | 41:55 | |
+
+
 ## AngularKyiv Meetup #4
 
 Событие: http://telegra.ph/AngularKyiv-Meetup-4-02-23
