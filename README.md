@@ -10,6 +10,7 @@
 ## Содержание
 
 * [События](#%D0%A1%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F)
+  * [SamaraJS \#4](#samarajs-4)
   * [Необычный Javascript](#%D0%9D%D0%B5%D0%BE%D0%B1%D1%8B%D1%87%D0%BD%D1%8B%D0%B9-javascript)
   * [AngularKyiv Meetup \#4](#angularkyiv-meetup-4)
   * [MoscowJS 40](#moscowjs-40)
@@ -28,6 +29,19 @@
 
 
 # События
+
+## SamaraJS #4
+
+Событие: https://vk.com/wall-162418457_9
+
+Дата: **02 марта 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Ирина Шилина. Web Accessibility](https://youtu.be/mXLqpKnbaLs) | 40:21 | [:notebook:](https://vk.com/doc3150028_460615461?hash=4b73130f71dfd39e05&dl=eeb58c2f4be12bc7be) |
+| [Алексей Гурьянов. Cerebral - декларативное управление состоянием приложения](https://youtu.be/BGF3waLMt_w) | 49:02 | [:notebook:](https://vk.com/doc3150028_460615458?hash=f3d69495debfe95fa4&dl=fab3aacb21fc354b03) |
+| [Владимир Малик. Современные Big Data и Machine Learning для чайников.](https://youtu.be/DKc2lhbXzZg) | 1:07:45 | [:notebook:](https://vk.com/doc3150028_460615454?hash=ae2cc2c06905583121&dl=b90cabf4b35409b412), [:notebook:](https://vk.com/doc3150028_460615427?hash=942bc1f31c99063fb3&dl=edfbdcc459995103f0) |
+
 
 ## Необычный Javascript
 
