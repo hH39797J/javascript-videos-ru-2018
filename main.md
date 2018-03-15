@@ -14,6 +14,19 @@
 
 # События
 
+## Workshop "TDD in React" by Yaniv Efraim
+
+Событие: https://www.meetup.com/Kyiv-ReactJS-Meetup/events/247392848/
+
+Дата: **10 марта 2018**
+
+| | | |
+| --- | :---: | --- |
+| [TDD in React workshop by Yaniv Efraim – Part I](https://youtu.be/ywCG8SN0Ci0) | 42:58 | [:octocat:](https://github.com/yanivefraim/react-tdd-workshop/tree/solution-example) |
+| [TDD in React workshop by Yaniv Efraim – Part II](https://youtu.be/aQdCPumW5iY) | 1:14:05 | [:octocat:](https://github.com/yanivefraim/react-tdd-workshop/tree/solution-example) |
+| [TDD in React workshop by Yaniv Efraim – Part III](https://youtu.be/b39M5yMkIkI) | 1:06:36 | [:octocat:](https://github.com/yanivefraim/react-tdd-workshop/tree/solution-example) |
+
+
 ## SamaraJS #4
 
 Событие: https://vk.com/wall-162418457_9
@@ -160,7 +173,7 @@
 | [DI: DIY](https://youtu.be/qQnzVTOqzio) James Akwuh | 33:09 | |
 | [The elegance of decorated Redux](https://youtu.be/NaEiH3Z1qqI) Ilja Satchok | 19:25 | |
 | [Ресерчили-ресерчили, да не выресерчавали](https://youtu.be/hMNys-hRrmI) Dzmitry Vanitski | 26:36 | [:notebook:](https://www.dropbox.com/s/a4rh08n5mjwyrsm/RS_Gap_presentation.pdf?dl=0) |
-| [How to improve test coverage up to 80% with generated unit testing approach and be calm.](https://youtu.be/V-6hEsziY8M) Aliaksandr Pasynkau | 31:47 | [:notebook:](https://github.com/aliaksandr-master/react-master-boilerplate) |
+| [How to improve test coverage up to 80% with generated unit testing approach and be calm.](https://youtu.be/V-6hEsziY8M) Aliaksandr Pasynkau | 31:47 | [:octocat:](https://github.com/aliaksandr-master/react-master-boilerplate) |
 | [И снова телевизоры!](https://youtu.be/g7OBtXP69oQ) Egor Malkevich | 32:59 | |
 | [Codemods и трансформация JavaScript кода](https://youtu.be/p8F-UIzuJtA) Mikhail Hatsilau | 33:53 | [:notebook:](https://drive.google.com/file/d/1Q6lGvwp8EXmrRXZ55IdVW3U39fo2J9ED/view), [:notebook:](https://docs.google.com/document/d/1-vjXp3NApU0YGiClv7shzNBRxH78qnc91e72tX5DjO8/edit) |
 | ~~Lego для дизайнера~~ Fedor Shepelenko | | [:notebook:](https://drive.google.com/file/d/1GBJcdMIRyAVjowrFfcphEFxUmODJMfEm/view) |
