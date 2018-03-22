@@ -10,6 +10,7 @@
 ## Содержание
 
 * [События](#%D0%A1%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F)
+  * [OdessaFrontend Code challenge](#odessafrontend-code-challenge)
   * [Workshop "TDD in React" by Yaniv Efraim](#workshop-tdd-in-react-by-yaniv-efraim)
   * [SamaraJS \#4](#samarajs-4)
   * [Необычный Javascript](#%D0%9D%D0%B5%D0%BE%D0%B1%D1%8B%D1%87%D0%BD%D1%8B%D0%B9-javascript)
@@ -30,6 +31,17 @@
 
 
 # События
+
+## OdessaFrontend Code challenge
+
+Событие: http://odessafrontend.com/code/
+
+Дата: **13 марта 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Построение простого REST сервера на Node.js](https://youtu.be/D_JtgVD5M-Y) Дмитрий Миндра | 42:26 | [:notebook:](https://www.slideshare.net/odessafrontend/rest-nodejs-odessafrontend-code-challenge) |
+
 
 ## Workshop "TDD in React" by Yaniv Efraim
 
