@@ -14,6 +14,17 @@
 
 # События
 
+## OdessaFrontend Code challenge
+
+Событие: http://odessafrontend.com/code/
+
+Дата: **13 марта 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Построение простого REST сервера на Node.js](https://youtu.be/D_JtgVD5M-Y) Дмитрий Миндра | 42:26 | [:notebook:](https://www.slideshare.net/odessafrontend/rest-nodejs-odessafrontend-code-challenge) |
+
+
 ## Workshop "TDD in React" by Yaniv Efraim
 
 Событие: https://www.meetup.com/Kyiv-ReactJS-Meetup/events/247392848/
