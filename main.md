@@ -208,6 +208,19 @@
 | [Алексей Иванов — React и данные: Эффективные способы хранения и изменения стейта](https://youtu.be/W0vZQaWqopw) | 45:33 | [:notebook:](https://goo.gl/TXDCYL) |
 
 
+## Frontend Meetup#1
+
+Событие: https://www.meetup.com/DEVNSK/events/246962197/
+
+Дата: **03 февраля 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Библиотека компонентов для дизайнера и разработчика, Максим Соснов](https://youtu.be/HPDmUqFgG0E) | 49:29 | |
+| [Реактивное программирование с помощью RxJS, Илья Зайцев](https://youtu.be/GmnHkHb86a4) | 28:04 | |
+| [Flow в легаси коде - легко! Глеб Фокин](https://youtu.be/QkZhPpRhxSk) | 30:35 | |
+
+
 ## OdessaFrontend Meetup #5
 
 Событие: http://odessafrontend.com/05/
