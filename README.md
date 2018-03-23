@@ -22,6 +22,7 @@
   * [PiterJS №22](#piterjs-22)
   * [RS Conf 2018](#rs-conf-2018)
   * [UralJS \#6](#uraljs-6)
+  * [Frontend Meetup\#1](#frontend-meetup1)
   * [OdessaFrontend Meetup \#5](#odessafrontend-meetup-5)
   * [MinskJS Meetup \#3](#minskjs-meetup-3)
   * [Я\.Субботник по фронтенду](#%D0%AF%D0%A1%D1%83%D0%B1%D0%B1%D0%BE%D1%82%D0%BD%D0%B8%D0%BA-%D0%BF%D0%BE-%D1%84%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4%D1%83)
@@ -224,6 +225,19 @@
 | [Николай Карев - this is зло](https://youtu.be/tQJ8YafbtUU) | 22:54 | [:notebook:](https://goo.gl/Vc7c37) |
 | [Михаил Шатихин — Безжалостная типизация](https://youtu.be/_00hPGacr18) | 30:57 | [:notebook:](https://goo.gl/E4fmL1) |
 | [Алексей Иванов — React и данные: Эффективные способы хранения и изменения стейта](https://youtu.be/W0vZQaWqopw) | 45:33 | [:notebook:](https://goo.gl/TXDCYL) |
+
+
+## Frontend Meetup#1
+
+Событие: https://www.meetup.com/DEVNSK/events/246962197/
+
+Дата: **03 февраля 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Библиотека компонентов для дизайнера и разработчика, Максим Соснов](https://youtu.be/HPDmUqFgG0E) | 49:29 | |
+| [Реактивное программирование с помощью RxJS, Илья Зайцев](https://youtu.be/GmnHkHb86a4) | 28:04 | |
+| [Flow в легаси коде - легко! Глеб Фокин](https://youtu.be/QkZhPpRhxSk) | 30:35 | |
 
 
 ## OdessaFrontend Meetup #5
