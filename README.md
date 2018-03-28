@@ -10,6 +10,7 @@
 ## Содержание
 
 * [События](#%D0%A1%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F)
+  * [Vue\.js Moscow Meetup \#1](#vuejs-moscow-meetup-1)
   * [OdessaFrontend Code challenge](#odessafrontend-code-challenge)
   * [Workshop "TDD in React" by Yaniv Efraim](#workshop-tdd-in-react-by-yaniv-efraim)
   * [SamaraJS \#4](#samarajs-4)
@@ -32,6 +33,20 @@
 
 
 # События
+
+## Vue.js Moscow Meetup #1
+
+Событие: https://www.meetup.com/vue-js-moscow/events/248462774/
+
+Дата: **22 марта 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Практика и методы работы со сложными формами во Vue.js - Александр Башкирцев (Software developer, Acronis)](https://youtu.be/h9NQs0SEVoA?t=10m41s) | начало: 10:41 | |
+| [Внедряем Vue.js в готовый проект, безболезненное избавление от jQuery. - Alexander Mayorov (CTO, NewHR)](https://youtu.be/h9NQs0SEVoA?t=40m11s) | начало: 40:11 | |
+| [Простое и понятное управление состоянием во vue.js - Александр Сафт (Senior Frontend Developer, Смотрешка)](https://youtu.be/h9NQs0SEVoA?t=1h34m7s) | начало: 1:34:07 | |
+| [Опыт использования Nuxt.js - Григорий Петров (технический евангелист Voximplant)](https://youtu.be/h9NQs0SEVoA?t=1h57m3s) | начало: 1:57:03 | |
+
 
 ## OdessaFrontend Code challenge
 
