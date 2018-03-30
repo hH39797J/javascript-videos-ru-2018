@@ -14,6 +14,19 @@
 
 # События
 
+## SPB Angular Meetup
+
+Событие: https://meetup.tinkoff.ru/events/spb-angular-meetup
+
+Дата: **22 марта 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Стратегия обнаружения изменений в Angular - Максим Иванов](https://youtu.be/2cV4i-g6Oxc) | 35:44 | [:notebook:](https://docs.google.com/presentation/d/1QrnHoBEgHtj_a48QdHLme8Di-OHjtajmOxVC2WlNOvY/edit#slide=id.g26d86d3325_0_0), [:octocat:](https://github.com/splincode/meetups/blob/master/2018/march/README.md) |
+| [Метапрограммирование - Иван Ботанов](https://youtu.be/JOO_Trs3X5M) | 19:33 | [:octocat:](https://github.com/StressoID/custom-angular-decorators) |
+| ~~Воркеры в экосистеме Angular - Александр Духовняк~~ | | |
+
+
 ## Vue.js Moscow Meetup #1
 
 Событие: https://www.meetup.com/vue-js-moscow/events/248462774/
