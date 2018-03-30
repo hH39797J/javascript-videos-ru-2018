@@ -10,6 +10,7 @@
 ## Содержание
 
 * [События](#%D0%A1%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F)
+  * [SPB Angular Meetup](#spb-angular-meetup)
   * [Vue\.js Moscow Meetup \#1](#vuejs-moscow-meetup-1)
   * [OdessaFrontend Code challenge](#odessafrontend-code-challenge)
   * [Workshop "TDD in React" by Yaniv Efraim](#workshop-tdd-in-react-by-yaniv-efraim)
@@ -33,6 +34,19 @@
 
 
 # События
+
+## SPB Angular Meetup
+
+Событие: https://meetup.tinkoff.ru/events/spb-angular-meetup
+
+Дата: **22 марта 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Стратегия обнаружения изменений в Angular - Максим Иванов](https://youtu.be/2cV4i-g6Oxc) | 35:44 | [:notebook:](https://docs.google.com/presentation/d/1QrnHoBEgHtj_a48QdHLme8Di-OHjtajmOxVC2WlNOvY/edit#slide=id.g26d86d3325_0_0), [:octocat:](https://github.com/splincode/meetups/blob/master/2018/march/README.md) |
+| [Метапрограммирование - Иван Ботанов](https://youtu.be/JOO_Trs3X5M) | 19:33 | [:octocat:](https://github.com/StressoID/custom-angular-decorators) |
+| ~~Воркеры в экосистеме Angular - Александр Духовняк~~ | | |
+
 
 ## Vue.js Moscow Meetup #1
 
