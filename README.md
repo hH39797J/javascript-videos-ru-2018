@@ -10,6 +10,7 @@
 ## Содержание
 
 * [События](#%D0%A1%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F)
+  * [React Kyiv March Meetup](#react-kyiv-march-meetup)
   * [SPB Angular Meetup](#spb-angular-meetup)
   * [Vue\.js Moscow Meetup \#1](#vuejs-moscow-meetup-1)
   * [OdessaFrontend Code challenge](#odessafrontend-code-challenge)
@@ -34,6 +35,20 @@
 
 
 # События
+
+## React Kyiv March Meetup
+
+Событие: https://www.meetup.com/Kyiv-ReactJS-Meetup/events/247310850/
+
+Дата: **23 марта 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Alex Kotliarskyi: Facebook product Infrastructure](https://youtu.be/UNdJFEmKkJU) | 42:49 | |
+| [Dmitry Barabash: Brief Intro to Styled Components](https://youtu.be/BYxf3lRD0Q4) | 8:00 | |
+| [Alexey Taktarov: Dirty animations in the stateful world](https://youtu.be/bn3je3u-UIo) | 41:02 | |
+| [Q&A Panel – React Kyiv March](https://youtu.be/Vokq8ndgd5c) | 33:47 | |
+
 
 ## SPB Angular Meetup
 
