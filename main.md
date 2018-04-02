@@ -63,7 +63,7 @@
 
 | | | |
 | --- | :---: | --- |
-| [Построение простого REST сервера на Node.js](https://youtu.be/D_JtgVD5M-Y) Дмитрий Миндра | 42:26 | [:notebook:](https://www.slideshare.net/odessafrontend/rest-nodejs-odessafrontend-code-challenge) |
+| [Построение простого REST сервера на Node.js](https://youtu.be/kN22waoyjL0) Дмитрий Миндра | 43:19 | [:notebook:](https://www.slideshare.net/odessafrontend/rest-nodejs-odessafrontend-code-challenge) |
 
 
 ## Workshop "TDD in React" by Yaniv Efraim
