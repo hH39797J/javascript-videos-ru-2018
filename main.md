@@ -24,7 +24,7 @@
 | --- | :---: | --- |
 | [Alex Kotliarskyi: Facebook product Infrastructure](https://youtu.be/UNdJFEmKkJU) | 42:49 | |
 | [Dmitry Barabash: Brief Intro to Styled Components](https://youtu.be/BYxf3lRD0Q4) | 8:00 | |
-| [Alexey Taktarov: Dirty animations in the stateful world](https://youtu.be/bn3je3u-UIo) | 41:02 | |
+| [Alexey Taktarov: Dirty animations in the stateful world](https://youtu.be/bn3je3u-UIo) | 41:02 | [:notebook:](http://molefrog.com/stateful-animations/), [:octocat:](https://github.com/molefrog/stateful-animations) |
 | [Q&A Panel – React Kyiv March](https://youtu.be/Vokq8ndgd5c) | 33:47 | |
 
 
