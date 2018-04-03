@@ -55,6 +55,20 @@
 | [Опыт использования Nuxt.js - Григорий Петров (технический евангелист Voximplant)](https://youtu.be/h9NQs0SEVoA?t=1h57m3s) | начало: 1:57:03 | |
 
 
+## PiterJS №23
+
+Событие: https://medium.com/piterjs/piterjs23-daedfe70625e
+
+Дата: **17 марта 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Артём Пендюрин - Web Components для практичных людей](https://youtu.be/OVQCN_bUkZM) | 27:05 | [:notebook:](https://piterjs.org/events/23/web-components.pdf) |
+| [Евгений Щепотьев - Зависимости в приложении](https://youtu.be/xtcwpACFtKc) | 30:57 | [:notebook:](https://piterjs.org/events/23/deps.pdf) |
+| [PiterJS #23 - Дебаты 1 часть](https://youtu.be/vJ-4TUKmMr8) | 46:57 | |
+| [PiterJS #23 - Дебаты 2 часть](https://youtu.be/mTHMKWxjo8E) | 49:01 | |
+
+
 ## OdessaFrontend Code challenge
 
 Событие: http://odessafrontend.com/code/
