@@ -13,6 +13,7 @@
   * [React Kyiv March Meetup](#react-kyiv-march-meetup)
   * [SPB Angular Meetup](#spb-angular-meetup)
   * [Vue\.js Moscow Meetup \#1](#vuejs-moscow-meetup-1)
+  * [PiterJS №23](#piterjs-23)
   * [OdessaFrontend Code challenge](#odessafrontend-code-challenge)
   * [Workshop "TDD in React" by Yaniv Efraim](#workshop-tdd-in-react-by-yaniv-efraim)
   * [SamaraJS \#4](#samarajs-4)
@@ -75,6 +76,20 @@
 | [Внедряем Vue.js в готовый проект, безболезненное избавление от jQuery. - Alexander Mayorov (CTO, NewHR)](https://youtu.be/h9NQs0SEVoA?t=40m11s) | начало: 40:11 | |
 | [Простое и понятное управление состоянием во vue.js - Александр Сафт (Senior Frontend Developer, Смотрешка)](https://youtu.be/h9NQs0SEVoA?t=1h34m7s) | начало: 1:34:07 | |
 | [Опыт использования Nuxt.js - Григорий Петров (технический евангелист Voximplant)](https://youtu.be/h9NQs0SEVoA?t=1h57m3s) | начало: 1:57:03 | |
+
+
+## PiterJS №23
+
+Событие: https://medium.com/piterjs/piterjs23-daedfe70625e
+
+Дата: **17 марта 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Артём Пендюрин - Web Components для практичных людей](https://youtu.be/OVQCN_bUkZM) | 27:05 | [:notebook:](https://piterjs.org/events/23/web-components.pdf) |
+| [Евгений Щепотьев - Зависимости в приложении](https://youtu.be/xtcwpACFtKc) | 30:57 | [:notebook:](https://piterjs.org/events/23/deps.pdf) |
+| [PiterJS #23 - Дебаты 1 часть](https://youtu.be/vJ-4TUKmMr8) | 46:57 | |
+| [PiterJS #23 - Дебаты 2 часть](https://youtu.be/mTHMKWxjo8E) | 49:01 | |
 
 
 ## OdessaFrontend Code challenge
