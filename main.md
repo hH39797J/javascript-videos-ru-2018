@@ -14,6 +14,19 @@
 
 # События
 
+## Встреча SPB Frontend, март 2018
+
+Событие: https://spb-frontend-events.timepad.ru/event/689991/
+
+Дата: **29 марта 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Слава Шебанов — «Веб-безопасность»](https://youtu.be/uUX3354Ppa8) | 37:14 | [:notebook:](http://slides.com/slavashebanov/web-security#/) |
+| [Серёжа Попов — «Хватит врать про Grid Layout!»](https://youtu.be/3tPTK1eWuLI) | начало в 0:00 | [:notebook:](https://drive.google.com/file/d/1WdpHEblsfOmdTsvz8E1lvaDcK8DfXDnp/view) |
+| [Катя Трифонова — «Визуализация аудио на JavaScript»](https://youtu.be/3tPTK1eWuLI?t=46m45s) | начало в 46:45 | [:notebook:](http://katia-trifonova.ru/show/#) |
+
+
 ## React Kyiv March Meetup
 
 Событие: https://www.meetup.com/Kyiv-ReactJS-Meetup/events/247310850/
@@ -49,10 +62,10 @@
 
 | | | |
 | --- | :---: | --- |
-| [Практика и методы работы со сложными формами во Vue.js - Александр Башкирцев (Software developer, Acronis)](https://youtu.be/h9NQs0SEVoA?t=10m41s) | начало: 10:41 | |
-| [Внедряем Vue.js в готовый проект, безболезненное избавление от jQuery. - Alexander Mayorov (CTO, NewHR)](https://youtu.be/h9NQs0SEVoA?t=40m11s) | начало: 40:11 | |
-| [Простое и понятное управление состоянием во vue.js - Александр Сафт (Senior Frontend Developer, Смотрешка)](https://youtu.be/h9NQs0SEVoA?t=1h34m7s) | начало: 1:34:07 | |
-| [Опыт использования Nuxt.js - Григорий Петров (технический евангелист Voximplant)](https://youtu.be/h9NQs0SEVoA?t=1h57m3s) | начало: 1:57:03 | |
+| [Практика и методы работы со сложными формами во Vue.js - Александр Башкирцев (Software developer, Acronis)](https://youtu.be/h9NQs0SEVoA?t=10m41s) | начало в 10:41 | |
+| [Внедряем Vue.js в готовый проект, безболезненное избавление от jQuery. - Alexander Mayorov (CTO, NewHR)](https://youtu.be/h9NQs0SEVoA?t=40m11s) | начало в 40:11 | |
+| [Простое и понятное управление состоянием во vue.js - Александр Сафт (Senior Frontend Developer, Смотрешка)](https://youtu.be/h9NQs0SEVoA?t=1h34m7s) | начало в 1:34:07 | |
+| [Опыт использования Nuxt.js - Григорий Петров (технический евангелист Voximplant)](https://youtu.be/h9NQs0SEVoA?t=1h57m3s) | начало в 1:57:03 | |
 
 
 ## PiterJS №23
