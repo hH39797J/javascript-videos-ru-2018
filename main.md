@@ -68,6 +68,25 @@
 | [Опыт использования Nuxt.js - Григорий Петров (технический евангелист Voximplant)](https://youtu.be/h9NQs0SEVoA?t=1h57m3s) | начало в 1:57:03 | |
 
 
+## JavaScript fwdays'18
+
+Событие: https://fwdays.com/event/js-fwdays-2018
+
+Дата: **18 марта 2018**
+
+### Track A
+
+| | | |
+| --- | :---: | --- |
+| [Illya Klymov "JavaScript: День 4001-й"](https://youtu.be/jzaZlEOSwoA) | 41:04 | [:notebook:](https://www.slideshare.net/fwdays/javascript-4001) |
+| [Mykhailo Churilov "Front-end Microservices Architecture"](https://youtu.be/2r9KqASOSeM) | 35:28 | [:notebook:](http://slides.com/mykhailochurilov/deck-14#/) |
+| [Ekaterina Lizogubova "React: дорога к просветлению"](https://youtu.be/STz1tr65ykE) | 27:31 | [:notebook:](https://www.slideshare.net/fwdays/react-91307920) |
+| [Martin Splitt "Creating virtual worlds in the browser"](https://youtu.be/0y2jXEUHvuk) | 41:38 | [:notebook:](https://www.slideshare.net/fwdays/martin-splitt-creating-virtual-worlds-in-the-browser) |
+| [Gregory Shehet "Растим детей. Или как Иван Васильевич запускал эксперименты?"](https://youtu.be/7cnBuA0LAGg) | 23:38 | [:notebook:](https://www.slideshare.net/fwdays/ss-91307851) |
+| [Feross Aboukhadijeh "The Most Annoying Website"](https://youtu.be/EkpS1eWb2BA) | 38:04 | [:notebook:](https://www.slideshare.net/fwdays/feross-aboukhadijeh-the-most-annoying-website-aka-the-power-of-the-web-platform-91926338) |
+| [Jan Jongboom "JavaScript all the things"](https://youtu.be/tTPk0OdMCqM) | 45:05 | [:notebook:](https://www.slideshare.net/fwdays/jan-jongboom-javascript-all-the-things) |
+
+
 ## PiterJS №23
 
 Событие: https://medium.com/piterjs/piterjs23-daedfe70625e
