@@ -122,6 +122,19 @@
 | [Noam Rosenthal "Frontend testing for Wix viewer: case study"](https://youtu.be/IYunRopn6fg) | 40:23 | [:notebook:](https://www.slideshare.net/fwdays/noam-rosenthal-frontend-testing-for-wix-viewer-case-study) |
 | [Helen Zhukova "Жизнь вне JavaScript"](https://youtu.be/gMWNlv6muNY) | 28:04 | [:notebook:](https://www.slideshare.net/fwdays/javascript-91459939) |
 
+*Tech talks*
+
+| | | |
+| --- | :---: | --- |
+| [Artem Yavorsky "99 ways to take away your ugly polyfills" [Lightning talk]](https://youtu.be/pMMQYHiFX3w) | 10:43 | [:notebook:](https://www.slideshare.net/fwdays/artem-yavorsky-99-ways-to-take-away-your-ugly-polyfills) |
+| [Oleksandr Skachkov "How to run WebAssembly in your React web application" [Lightning talk]](https://youtu.be/oicuETKQBkw) | 14:52 | [:notebook:](https://www.slideshare.net/fwdays/oleksandr-skachkov-event-is-over-how-to-run-webassembly-in-your-react-web-application) |
+| [Vitalii Ratushnyi "Vue: webcomponents" [Lightning talk]](https://youtu.be/Q3MOPhHR2Mk) | 8:19 | [:notebook:](https://www.slideshare.net/fwdays/vue-webcomponents) |
+| [International Speakers' Corner: Jan Jongboom, Martin Splitt, Feross Aboukhadijeh, Noam Rosenthal](https://youtu.be/0WMLFRz6veY) | 38:31 | |
+| [Nikita Galkin "Best practices and troubleshooting guide for node applications" [Workshop]](https://youtu.be/8HQ0IYanqFs) | 1:28:39 | [:notebook:](https://www.slideshare.net/fwdays/nikita-galkin-best-practices-and-troubleshooting-guide-for-node-applications) |
+| [Andrii Kanunnikov "600 секунд об async_hooks" [Lightning talk]](https://youtu.be/8ut7bRzj-vU) | 12:07 | [:notebook:](https://www.slideshare.net/fwdays/600-asynchooks) |
+| [Oleksandr Poshtaruk "Use-case оператора replyWhen из Rx.JS" [Lightning talk]](https://youtu.be/d7zO9fzXbfM) | 13:22 | [:notebook:](https://www.slideshare.net/fwdays/usecase-replywhen-rxjs-iframe) |
+| [Sergey Melashych "Web Workers - добавьте производительности своим Web приложениям" [Lightning talk]](https://youtu.be/ctKmHO2yARY) | 14:43 | [:notebook:](http://slides.com/sergeymell/fwdays-2018/fullscreen#/) |
+
 
 ## PiterJS №23
 
