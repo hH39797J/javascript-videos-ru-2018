@@ -74,7 +74,7 @@
 
 Дата: **18 марта 2018**
 
-### Track A
+*Track A*
 
 | | | |
 | --- | :---: | --- |
@@ -85,6 +85,17 @@
 | [Gregory Shehet "Растим детей. Или как Иван Васильевич запускал эксперименты?"](https://youtu.be/7cnBuA0LAGg) | 23:38 | [:notebook:](https://www.slideshare.net/fwdays/ss-91307851) |
 | [Feross Aboukhadijeh "The Most Annoying Website"](https://youtu.be/EkpS1eWb2BA) | 38:04 | [:notebook:](https://www.slideshare.net/fwdays/feross-aboukhadijeh-the-most-annoying-website-aka-the-power-of-the-web-platform-91926338) |
 | [Jan Jongboom "JavaScript all the things"](https://youtu.be/tTPk0OdMCqM) | 45:05 | [:notebook:](https://www.slideshare.net/fwdays/jan-jongboom-javascript-all-the-things) |
+
+*Track B*
+
+| | | |
+| --- | :---: | --- |
+| [Sergiy Babich "Як ангулярити на 5+"](https://youtu.be/dfJyrbk7PME) | 52:46 | [:notebook:](https://babichss.github.io/angular-for-a-plus/#/) |
+| [Andrey Listochkin "Time, Numbers, Text"](https://youtu.be/TFBCcNFEmDE) | 40:02 | [:notebook:](https://speakerdeck.com/listochkin/time-numbers-text) |
+| [Anton Nemtsev "Кодстайл и насилие"](https://youtu.be/qHIhWxHSi_0) | 30:50 | [:notebook:](https://silentimp.github.io/codeStyleAndViolenceRu/index.html#slide-1) |
+| [Vladimir Zaets "GraphQL - новый взгляд на API"](https://youtu.be/zXUP4bNDxWo) | 37:21 | [:notebook:](https://www.slideshare.net/fwdays/graphql-api) |
+| [Noam Rosenthal "Frontend testing for Wix viewer: case study"](https://youtu.be/IYunRopn6fg) | 40:23 | [:notebook:](https://www.slideshare.net/fwdays/noam-rosenthal-frontend-testing-for-wix-viewer-case-study) |
+| [Helen Zhukova "Жизнь вне JavaScript"](https://youtu.be/gMWNlv6muNY) | 28:04 | [:notebook:](https://www.slideshare.net/fwdays/javascript-91459939) |
 
 
 ## PiterJS №23
@@ -237,7 +248,7 @@
 
 Дата: **10-11 февраля 2018**
 
-10 февраля 2018 (СБ)
+*10 февраля 2018 (СБ)*
 
 | | | |
 | --- | :---: | --- |
@@ -259,7 +270,7 @@
 | [Navigating the Frontend landscape without encountering JS fatigue](https://youtu.be/p7h8hMnjF4I) | 18:01 | |
 | [Evolution of Web Perfomance](https://youtu.be/BIJF0-FyV8M) Denis Artyuhovich | 21:14 | |
 
-11 февраля 2018 (ВС)
+*11 февраля 2018 (ВС)*
 
 | | | |
 | --- | :---: | --- |
