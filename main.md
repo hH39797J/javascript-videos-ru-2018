@@ -27,6 +27,19 @@
 | [Катя Трифонова — «Визуализация аудио на JavaScript»](https://youtu.be/3tPTK1eWuLI?t=46m45s) | начало в 46:45 | [:notebook:](http://katia-trifonova.ru/show/#) |
 
 
+## OdessaFrontend Meetup #6
+
+Событие: https://odessafrontend.com/06/
+
+Дата: **27 марта 2018**
+
+| | | |
+| --- | :---: | --- |
+| [JS + $100 = Smart Home](https://youtu.be/DXU_Rx3oMkA) Олег Сокур | 27:02 | [:notebook:](https://www.slideshare.net/odessafrontend/js-100-smart-home-odessafrontend-meetup-6) |
+| [Server-side Rendering with JavaScript Frameworks](https://youtu.be/Q4q8fQWVrpc) Андрей Михайлов | 27:45 | [:notebook:](https://www.slideshare.net/odessafrontend/serverside-rendering-with-javascript-frameworks-odessafrontend-meetup-6) |
+| [Организация CSS-кода и еще одна методология](https://youtu.be/Sp-BDy1aASM) Анатолий Притульский | 41:37 | [:notebook:](https://odessafrontend.github.io/upcss/index.html#/) |
+
+
 ## React Kyiv March Meetup
 
 Событие: https://www.meetup.com/Kyiv-ReactJS-Meetup/events/247310850/
