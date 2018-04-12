@@ -11,6 +11,7 @@
 
 * [События](#%D0%A1%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F)
   * [Встреча SPB Frontend, март 2018](#%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B0-spb-frontend-%D0%BC%D0%B0%D1%80%D1%82-2018)
+  * [OdessaFrontend Meetup \#6](#odessafrontend-meetup-6)
   * [React Kyiv March Meetup](#react-kyiv-march-meetup)
   * [SPB Angular Meetup](#spb-angular-meetup)
   * [Vue\.js Moscow Meetup \#1](#vuejs-moscow-meetup-1)
@@ -50,6 +51,19 @@
 | [Слава Шебанов — «Веб-безопасность»](https://youtu.be/uUX3354Ppa8) | 37:14 | [:notebook:](http://slides.com/slavashebanov/web-security#/) |
 | [Серёжа Попов — «Хватит врать про Grid Layout!»](https://youtu.be/3tPTK1eWuLI) | начало в 0:00 | [:notebook:](https://drive.google.com/file/d/1WdpHEblsfOmdTsvz8E1lvaDcK8DfXDnp/view) |
 | [Катя Трифонова — «Визуализация аудио на JavaScript»](https://youtu.be/3tPTK1eWuLI?t=46m45s) | начало в 46:45 | [:notebook:](http://katia-trifonova.ru/show/#) |
+
+
+## OdessaFrontend Meetup #6
+
+Событие: https://odessafrontend.com/06/
+
+Дата: **27 марта 2018**
+
+| | | |
+| --- | :---: | --- |
+| [JS + $100 = Smart Home](https://youtu.be/DXU_Rx3oMkA) Олег Сокур | 27:02 | [:notebook:](https://www.slideshare.net/odessafrontend/js-100-smart-home-odessafrontend-meetup-6) |
+| [Server-side Rendering with JavaScript Frameworks](https://youtu.be/Q4q8fQWVrpc) Андрей Михайлов | 27:45 | [:notebook:](https://www.slideshare.net/odessafrontend/serverside-rendering-with-javascript-frameworks-odessafrontend-meetup-6) |
+| [Организация CSS-кода и еще одна методология](https://youtu.be/Sp-BDy1aASM) Анатолий Притульский | 41:37 | [:notebook:](https://odessafrontend.github.io/upcss/index.html#/) |
 
 
 ## React Kyiv March Meetup
