@@ -14,6 +14,20 @@
 
 # События
 
+## SPA Meetup #4
+
+Событие: https://moscow-spa.timepad.ru/event/692653/
+
+Дата: **07 апреля 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Архитектура фронтенда крупного проекта, как она есть — Константин Лебедев, Mail.ru](https://youtu.be/J08UOAJdjWc) | 34:01 | |
+| [Атомарные SPA — Александр Китов, Альфа-Банк](https://youtu.be/pkHWttaktWk) | 45:54 | [:notebook:](https://www.icloud.com/keynote/0nE1tZ3A33I0xIVROIToxF0Eg#Avito_04.2018) |
+| [Масштабируемая архитектура фронтенда — Роман Дворнов, Avito](https://youtu.be/z9y6PNC2FL0) | 1:02:57 |  |
+| [Дискуссионная панель "SPA сегодня — каким оно должно быть?"](https://youtu.be/BezEWFL5WKk) | 1:08:52 | |
+
+
 ## Встреча SPB Frontend, март 2018
 
 Событие: https://spb-frontend-events.timepad.ru/event/689991/
