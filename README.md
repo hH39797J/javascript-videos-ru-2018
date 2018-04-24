@@ -10,6 +10,7 @@
 ## Содержание
 
 * [События](#%D0%A1%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F)
+  * [The Rolling Scopes #46. Mogilev](#the-rolling-scopes-46-mogilev)
   * [SPA Meetup \#4](#spa-meetup-4)
   * [Встреча SPB Frontend, март 2018](#%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B0-spb-frontend-%D0%BC%D0%B0%D1%80%D1%82-2018)
   * [OdessaFrontend Meetup \#6](#odessafrontend-meetup-6)
@@ -40,6 +41,21 @@
 
 
 # События
+
+## The Rolling Scopes #46. Mogilev
+
+Событие: https://mogilev.rollingscopes.com/
+
+Дата: **21 апреля 2018**
+
+| | | |
+| --- | :---: | --- |
+| ["Monads - coding functionally" - Aliaksandr Famchankou](https://youtu.be/7gAPuReBBYY) | 31:28 | |
+| ["Нормально делай - нормально будет" - Pavel Birukou](https://youtu.be/p-XM8DeMnu4) | 37:39 | |
+| ["Growing as a developer" - Paul Yuhnovich](https://youtu.be/9m1PnI6w2Lo) | 47:08 |  |
+| ["Node.JS WORLD" - Artsiom Marozau](https://youtu.be/ZYaLC1j23Cc) | 32:15 | |
+| ["CSS grid layout - practice tricks" - Yauhen Kavalchuk](https://youtu.be/1Vo048uwiBY) | 50:42 | |
+
 
 ## SPA Meetup #4
 
