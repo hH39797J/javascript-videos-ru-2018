@@ -14,6 +14,21 @@
 
 # События
 
+## The Rolling Scopes #46. Mogilev
+
+Событие: https://mogilev.rollingscopes.com/
+
+Дата: **21 апреля 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Aliaksandr Famchankou - MONADS - CODING FUNCTIONALLY](https://youtu.be/7gAPuReBBYY) | 31:28 | |
+| [Pavel Birukou - НОРМАЛЬНО ДЕЛАЙ — НОРМАЛЬНО БУДЕТ](https://youtu.be/p-XM8DeMnu4) | 37:39 | |
+| [Paul Yuhnovich - GROWING AS A DEVELOPER](https://youtu.be/9m1PnI6w2Lo) | 47:08 |  |
+| [Artsiom Marozau - NODE.JS WORLD](https://youtu.be/ZYaLC1j23Cc) | 32:15 | |
+| [Yauhen Kavalchuk - CSS GRID LAYOUT - PRACTICE TRICKS](https://youtu.be/1Vo048uwiBY) | 50:42 | |
+
+
 ## SPA Meetup #4
 
 Событие: https://moscow-spa.timepad.ru/event/692653/
