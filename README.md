@@ -134,10 +134,10 @@
 
 | | | |
 | --- | :---: | --- |
-| [Практика и методы работы со сложными формами во Vue.js - Александр Башкирцев (Software developer, Acronis)](https://youtu.be/h9NQs0SEVoA?t=10m41s) | начало в 10:41 | |
-| [Внедряем Vue.js в готовый проект, безболезненное избавление от jQuery. - Alexander Mayorov (CTO, NewHR)](https://youtu.be/h9NQs0SEVoA?t=40m11s) | начало в 40:11 | |
-| [Простое и понятное управление состоянием во vue.js - Александр Сафт (Senior Frontend Developer, Смотрешка)](https://youtu.be/h9NQs0SEVoA?t=1h34m7s) | начало в 1:34:07 | |
-| [Опыт использования Nuxt.js - Григорий Петров (технический евангелист Voximplant)](https://youtu.be/h9NQs0SEVoA?t=1h57m3s) | начало в 1:57:03 | |
+| [Практика и методы работы со сложными формами во Vue.js - Александр Башкирцев (Software developer, Acronis)](https://youtu.be/h9NQs0SEVoA?t=10m41s) | начало в 10:41 | [:notebook:](https://speakerdeck.com/vuejsmoscow/modieli-dannykh-dlia-form-riedaktirovaniia-alieksandr-bashkirtsiev-vue-dot-js-moscow-meetup) |
+| [Внедряем Vue.js в готовый проект, безболезненное избавление от jQuery. - Alexander Mayorov (CTO, NewHR)](https://youtu.be/h9NQs0SEVoA?t=40m11s) | начало в 40:11 | [:notebook:](https://speakerdeck.com/vuejsmoscow/vniedriaiem-vue-dot-js-v-ghotovyi-proiekt-biezboliezniennoie-izbavlieniie-ot-jquery-alieksandr-maiorov-vue-dot-js-moscow-meetup) |
+| [Простое и понятное управление состоянием во vue.js - Александр Сафт (Senior Frontend Developer, Смотрешка)](https://youtu.be/h9NQs0SEVoA?t=1h34m7s) | начало в 1:34:07 | [:notebook:](https://speakerdeck.com/vuejsmoscow/prostoie-i-poniatnoie-upravlieniie-sostoianiiem-vo-vue-dot-js-alieksandr-saft-vue-dot-js-moscow-meetup) |
+| [Опыт использования Nuxt.js - Григорий Петров (технический евангелист Voximplant)](https://youtu.be/h9NQs0SEVoA?t=1h57m3s) | начало в 1:57:03 | [:notebook:](https://speakerdeck.com/vuejsmoscow/opyt-ispol-zovaniia-nuxt-dot-js-grighorii-pietrov-tiekhnichieskii-ievanghielist-voximplant-vue-dot-js-moscow-meetup) |
 
 
 ## JavaScript fwdays'18
