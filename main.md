@@ -29,6 +29,20 @@
 | [Yauhen Kavalchuk - CSS GRID LAYOUT - PRACTICE TRICKS](https://youtu.be/1Vo048uwiBY) | 50:42 | |
 
 
+## AngularKyiv Meetup #5
+
+Событие: https://www.meetup.com/Angular-Kyiv/events/249862213/
+
+Дата: **20 апреля 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Ngrx - Инструменты и практика (Victor Mozharovsky)](https://youtu.be/8pl0DEeHA2E) | 33:06 | [:notebook:](https://docs.google.com/presentation/d/1OVoAoGTCHYBTQLVm92wwKEo5OR-34iqHKzf8WMgAa5Q/edit#slide=id.p) |
+| [Component Driven Development (Agnislav Onufriichuk)](https://youtu.be/oHXTVD-Hoj0) | 39:21 | |
+| [Journey to the Core (Alexey Veligura)](https://youtu.be/-6YdaTO1stM) | 25:33 | [:notebook:](https://docs.google.com/presentation/d/126xbOnojhL7k5waowDhaqFnlJYUgjNTyb36br1v2CAI/edit#slide=id.p) |
+| [Angular Push Notifications (Sebastien Vasylets)](https://youtu.be/2ilBbPXTrdM) | 47:35 | |
+
+
 ## SPA Meetup #4
 
 Событие: https://moscow-spa.timepad.ru/event/692653/
@@ -220,7 +234,7 @@
 
 ## AngularKyiv Meetup #4
 
-Событие: http://telegra.ph/AngularKyiv-Meetup-4-02-23
+Событие: https://www.meetup.com/Angular-Kyiv/events/248128326/
 
 Дата: **01 марта 2018**
 
