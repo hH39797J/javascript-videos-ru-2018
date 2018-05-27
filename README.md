@@ -10,6 +10,7 @@
 ## Содержание
 
 * [События](#%D0%A1%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F)
+  * [MinskJS Meetup \#4](#minskjs-meetup-4)
   * [The Rolling Scopes \#46\. Mogilev](#the-rolling-scopes-46-mogilev)
   * [AngularKyiv Meetup \#5](#angularkyiv-meetup-5)
   * [SPA Meetup \#4](#spa-meetup-4)
@@ -42,6 +43,19 @@
 
 
 # События
+
+## MinskJS Meetup #4
+
+Событие: https://minskjs.timepad.ru/event/606211/
+
+Дата: **24 мая 2018**
+
+| | | |
+| --- | :---: | --- |
+| [GraphQL, или Новый взгляд на API / Илья Запруцкий](https://youtu.be/4diXbLnYrMs) | 37:56 | [:notebook:](https://drive.google.com/file/d/174peSi-zvTuBB9g_Sgf9qyZnJCY9T4UG/view) |
+| [Electron: Разработка Desktop-приложений, используя HTML, CSS и JavaScript / Дмитрий Васин](https://youtu.be/AfAPjvp948I) | 34:14 | [:notebook:](https://docs.google.com/presentation/d/1AoGmzhulv7YYJCXi_AyUYLrrJ5Dhj-RmrpR9i41_PUk/edit#slide=id.g2fb4f240ee_0_438) |
+| [Автостопом по Puppeteer / Егор Возиянов](https://youtu.be/iw7XM5EBbGs) | 38:31 | [:notebook:](http://slides.com/fasvald/hitchhikingpuppeteer#/) |
+
 
 ## The Rolling Scopes #46. Mogilev
 
