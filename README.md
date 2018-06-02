@@ -15,6 +15,7 @@
   * [AngularKyiv Meetup \#5](#angularkyiv-meetup-5)
   * [SPA Meetup \#4](#spa-meetup-4)
   * [Встреча SPB Frontend, март 2018](#%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B0-spb-frontend-%D0%BC%D0%B0%D1%80%D1%82-2018)
+  * [Front\-end MeetUp в Райффайзенбанк](#front-end-meetup-%D0%B2-%D0%A0%D0%B0%D0%B9%D1%84%D1%84%D0%B0%D0%B9%D0%B7%D0%B5%D0%BD%D0%B1%D0%B0%D0%BD%D0%BA)
   * [OdessaFrontend Meetup \#6](#odessafrontend-meetup-6)
   * [React Kyiv March Meetup](#react-kyiv-march-meetup)
   * [SPB Angular Meetup](#spb-angular-meetup)
@@ -38,7 +39,6 @@
   * [MinskJS Meetup \#3](#minskjs-meetup-3)
   * [Я\.Субботник по фронтенду](#%D0%AF%D0%A1%D1%83%D0%B1%D0%B1%D0%BE%D1%82%D0%BD%D0%B8%D0%BA-%D0%BF%D0%BE-%D1%84%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4%D1%83)
   * [PiterJS №21](#piterjs-21)
-  * [Front-end MeetUp в Райффайзенбанк](#front-end-meetup-%D0%B2-%D0%A0%D0%B0%D0%B9%D1%84%D1%84%D0%B0%D0%B9%D0%B7%D0%B5%D0%BD%D0%B1%D0%B0%D0%BD%D0%BA)
 * [Учебные материалы](#%D0%A3%D1%87%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5-%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B)
 * [Подкастинг](#%D0%9F%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82%D0%B8%D0%BD%D0%B3)
 
@@ -114,6 +114,20 @@
 | [Слава Шебанов — «Веб-безопасность»](https://youtu.be/uUX3354Ppa8) | 37:14 | [:notebook:](http://slides.com/slavashebanov/web-security#/) |
 | [Серёжа Попов — «Хватит врать про Grid Layout!»](https://youtu.be/3tPTK1eWuLI) | начало в 0:00 | [:notebook:](https://drive.google.com/file/d/1WdpHEblsfOmdTsvz8E1lvaDcK8DfXDnp/view) |
 | [Катя Трифонова — «Визуализация аудио на JavaScript»](https://youtu.be/3tPTK1eWuLI?t=46m45s) | начало в 46:45 | [:notebook:](http://katia-trifonova.ru/show/#) |
+
+
+## Front-end MeetUp в Райффайзенбанк
+
+Событие: https://habr.com/company/raiffeisenbank/blog/351926/
+
+Дата: **28 марта 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Higher Order Components with Functional Patterns Using Recompose - Григоров Дмитрий, Райффайзенбанк](https://youtu.be/5zPbydsnLoE?t=2m3s) | начало в 2:03 | |
+| [От jQuery до React - Попков Алексей, КонсультантПлюс](https://youtu.be/5zPbydsnLoE?t=29m56s) | начало в 29:56 | |
+| [React, Mobx и ES7 - Алехин Сергей, Topso.Ru](https://youtu.be/5zPbydsnLoE?t=1h18m16s) | начало в 1:18:16 |  |
+| [Cборка Docker+Nginx+CRA+Koajs+MongoDB за 10 мин - Сычев Илья, Райффайзенбанк](https://youtu.be/5zPbydsnLoE?t=1h54m1s) | начало в 1:54:01 | |
 
 
 ## OdessaFrontend Meetup #6
@@ -488,19 +502,6 @@
 | [Александр Канунников - AsyncDom](https://youtu.be/qZaby7iOVts) | 25:49 | [:notebook:](https://docs.google.com/presentation/d/12eFghswDeHfQWhZjh2B3vOsYc2DrBAcJLQr_6bGMfK8/edit#slide=id.p) |
 | [Илья Кашлаков - Рефакторинг платежного процесса Яндекс.Денег](https://youtu.be/-wM-JmF1-VM) | 31:22 | [:notebook:](https://github.com/piterjs/piterjs.org/blob/gh-pages/events/21/yamoney-refactoring.pdf) |
 
-
-## Front-end MeetUp в Райффайзенбанк
-
-Событие: https://habr.com/company/raiffeisenbank/blog/351926/
-
-Дата: **28 марта 2018**
-
-| | | |
-| --- | :---: | --- |
-| [Higher Order Components with Functional Patterns Using Recompose - Григоров Дмитрий Райффайзенбанк](https://youtu.be/5zPbydsnLoE?t=2m3s) | 27:53 | |
-| [От jQuery до React - Попков Алексей КонсультантПлюс](https://youtu.be/5zPbydsnLoE?t=29m56s) | 34:42 | |
-| [React, Mobx и ES7 - Алехин Сергей Topso.Ru](https://youtu.be/5zPbydsnLoE?t=1h18m16s) | 36:15 |  |
-| [Cборка Docker+Nginx+CRA+Koajs+MongoDB за 10 мин - Сычев Илья Райффайзенбанк](https://youtu.be/5zPbydsnLoE?t=1h54m1s) | 28:39 | |
 
 # Учебные материалы
 
