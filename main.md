@@ -85,6 +85,20 @@
 | [Катя Трифонова — «Визуализация аудио на JavaScript»](https://youtu.be/3tPTK1eWuLI?t=46m45s) | начало в 46:45 | [:notebook:](http://katia-trifonova.ru/show/#) |
 
 
+## Front-end MeetUp в Райффайзенбанк
+
+Событие: https://habr.com/company/raiffeisenbank/blog/351926/
+
+Дата: **28 марта 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Higher Order Components with Functional Patterns Using Recompose - Григоров Дмитрий, Райффайзенбанк](https://youtu.be/5zPbydsnLoE?t=2m3s) | начало в 2:03 | |
+| [От jQuery до React - Попков Алексей, КонсультантПлюс](https://youtu.be/5zPbydsnLoE?t=29m56s) | начало в 29:56 | |
+| [React, Mobx и ES7 - Алехин Сергей, Topso.Ru](https://youtu.be/5zPbydsnLoE?t=1h18m16s) | начало в 1:18:16 |  |
+| [Cборка Docker+Nginx+CRA+Koajs+MongoDB за 10 мин - Сычев Илья, Райффайзенбанк](https://youtu.be/5zPbydsnLoE?t=1h54m1s) | начало в 1:54:01 | |
+
+
 ## OdessaFrontend Meetup #6
 
 Событие: https://odessafrontend.com/06/
