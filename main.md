@@ -234,6 +234,21 @@
 | [TDD in React workshop by Yaniv Efraim – Part III](https://youtu.be/b39M5yMkIkI) | 1:06:36 | [:octocat:](https://github.com/yanivefraim/react-tdd-workshop/tree/solution-example) |
 
 
+## JSNN #9
+
+Событие: https://www.it52.info/events/2018-03-03-jsnn-9
+
+Дата: **03 марта 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Никита Глазов – Поиск новых форм](https://youtu.be/o2WooiJ1A3w) | 28:17 |  |
+| [Борис Стрельников – Сетевое взаимодействие в WEB: аудит производительности](https://youtu.be/albWwa93c4E) | 40:44 | |
+| [Алексей Охрименко – Жизнь после Angular CLI](https://youtu.be/PnhzXnaRmiw) | 30:28 | |
+| [Павел Малышев – Магически исчезающий JS фреймворк](https://youtu.be/laK43QpHYdg) | 51:29 | |
+| [Сергей Рубанов и Андрей Яманов – Куда катится веб](https://youtu.be/ZtJZ2qDjee4) | 46:52 | |
+
+
 ## SamaraJS #4
 
 Событие: https://vk.com/wall-162418457_9
