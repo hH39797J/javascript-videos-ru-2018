@@ -24,6 +24,7 @@
   * [PiterJS №23](#piterjs-23)
   * [OdessaFrontend Code challenge](#odessafrontend-code-challenge)
   * [Workshop "TDD in React" by Yaniv Efraim](#workshop-tdd-in-react-by-yaniv-efraim)
+  * [JSNN \#9](#jsnn-9)
   * [SamaraJS \#4](#samarajs-4)
   * [Необычный Javascript](#%D0%9D%D0%B5%D0%BE%D0%B1%D1%8B%D1%87%D0%BD%D1%8B%D0%B9-javascript)
   * [AngularKyiv Meetup \#4](#angularkyiv-meetup-4)
@@ -263,6 +264,21 @@
 | [TDD in React workshop by Yaniv Efraim – Part I](https://youtu.be/ywCG8SN0Ci0) | 42:58 | [:octocat:](https://github.com/yanivefraim/react-tdd-workshop/tree/solution-example) |
 | [TDD in React workshop by Yaniv Efraim – Part II](https://youtu.be/aQdCPumW5iY) | 1:14:05 | [:octocat:](https://github.com/yanivefraim/react-tdd-workshop/tree/solution-example) |
 | [TDD in React workshop by Yaniv Efraim – Part III](https://youtu.be/b39M5yMkIkI) | 1:06:36 | [:octocat:](https://github.com/yanivefraim/react-tdd-workshop/tree/solution-example) |
+
+
+## JSNN #9
+
+Событие: https://www.it52.info/events/2018-03-03-jsnn-9
+
+Дата: **03 марта 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Никита Глазов – Поиск новых форм](https://youtu.be/o2WooiJ1A3w) | 28:17 |  |
+| [Борис Стрельников – Сетевое взаимодействие в WEB: аудит производительности](https://youtu.be/albWwa93c4E) | 40:44 | |
+| [Алексей Охрименко – Жизнь после Angular CLI](https://youtu.be/PnhzXnaRmiw) | 30:28 | |
+| [Павел Малышев – Магически исчезающий JS фреймворк](https://youtu.be/laK43QpHYdg) | 51:29 | |
+| [Сергей Рубанов и Андрей Яманов – Куда катится веб](https://youtu.be/ZtJZ2qDjee4) | 46:52 | |
 
 
 ## SamaraJS #4
