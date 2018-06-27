@@ -10,6 +10,7 @@
 ## Содержание
 
 * [События](#%D0%A1%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F)
+  * [RND\.JS \#6](#rndjs-6)
   * [MinskJS Meetup \#4](#minskjs-meetup-4)
   * [The Rolling Scopes \#46\. Mogilev](#the-rolling-scopes-46-mogilev)
   * [AngularKyiv Meetup \#5](#angularkyiv-meetup-5)
@@ -45,6 +46,20 @@
 
 
 # События
+
+## RND.JS #6
+
+Событие: https://it61.info/events/2018-05-26-rnd-js-6-286
+
+Дата: **26 мая 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Алексей Герасимов — Оптимизация React Redux приложений при помощи Reselect](https://youtu.be/elCwlVuEgqs) | 12:29 | [:notebook:](https://docs.google.com/presentation/d/1phwOWESw--Ndxt1K5AuFjf0O5fHVxQZFXOaDgsrupEE/edit#slide=id.p) |
+| [Александр Храмов — Реактивен ли React](https://youtu.be/Pmp5JVd0Eok) | 18:11 | [:notebook:](https://vk.com/doc475435776_467217490?hash=b32946dccb31f29a40&dl=69fb419d2a2c1ef2f9) |
+| [Андрей Алексеев — RxJS по косточкам](https://youtu.be/2otvaKKUXto) | 57:15 | [:notebook:](https://aalexeev239.github.io/rxjs-intro/) |
+| [Сергей Алехин — Практикум ES7, React, Mobx](https://youtu.be/u1qogKC8VL4) | 39:05 | [:octocat:](https://bitbucket.org/sa18/finrostdemo) |
+
 
 ## MinskJS Meetup #4
 
