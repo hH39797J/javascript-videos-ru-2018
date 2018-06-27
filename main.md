@@ -14,6 +14,20 @@
 
 # События
 
+## RND.JS #6
+
+Событие: https://it61.info/events/2018-05-26-rnd-js-6-286
+
+Дата: **26 мая 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Алексей Герасимов — Оптимизация React Redux приложений при помощи Reselect](https://youtu.be/elCwlVuEgqs) | 12:29 | [:notebook:](https://docs.google.com/presentation/d/1phwOWESw--Ndxt1K5AuFjf0O5fHVxQZFXOaDgsrupEE/edit#slide=id.p) |
+| [Александр Храмов — Реактивен ли React](https://youtu.be/Pmp5JVd0Eok) | 18:11 | [:notebook:](https://vk.com/doc475435776_467217490?hash=b32946dccb31f29a40&dl=69fb419d2a2c1ef2f9) |
+| [Андрей Алексеев — RxJS по косточкам](https://youtu.be/2otvaKKUXto) | 57:15 | [:notebook:](https://aalexeev239.github.io/rxjs-intro/) |
+| [Сергей Алехин — Практикум ES7, React, Mobx](https://youtu.be/u1qogKC8VL4) | 39:05 | [:octocat:](https://bitbucket.org/sa18/finrostdemo) |
+
+
 ## MinskJS Meetup #4
 
 Событие: https://minskjs.timepad.ru/event/606211/
@@ -486,19 +500,6 @@
 | [Александр Канунников - AsyncDom](https://youtu.be/qZaby7iOVts) | 25:49 | [:notebook:](https://docs.google.com/presentation/d/12eFghswDeHfQWhZjh2B3vOsYc2DrBAcJLQr_6bGMfK8/edit#slide=id.p) |
 | [Илья Кашлаков - Рефакторинг платежного процесса Яндекс.Денег](https://youtu.be/-wM-JmF1-VM) | 31:22 | [:notebook:](https://github.com/piterjs/piterjs.org/blob/gh-pages/events/21/yamoney-refactoring.pdf) |
 
-
-## RND.JS #6
-
-Событие: https://it61.info/events/2018-05-26-rnd-js-6-286
-
-Дата: **26 мая 2018**
-
-| | | |
-| --- | :---: | --- |
-| [Алексей Герасимов — Оптимизация React Redux приложений при помощи Reselect](https://youtu.be/elCwlVuEgqs) | 12:30 | [:notebook:](https://bit.ly/2H0ATXj) |
-| [Александр Храмов — Реактивен ли React](https://youtu.be/Pmp5JVd0Eok) | 18:12 | [:notebook:](https://vk.com/doc475435776_467217490?hash=b32946dccb31f29a40&dl=69fb419d2a2c1ef2f9) |
-| [Андрей Алексеев — RxJS по косточкам](https://youtu.be/2otvaKKUXto) | 57:16 | [:notebook:](https://aalexeev239.github.io/rxjs-intro/) |
-| [Сергей Алехин — Практикум ES7, React, Mobx](https://youtu.be/u1qogKC8VL4) | 39:06 | [:notebook:](https://bitbucket.org/sa18/finrostdemo) |
 
 # Учебные материалы
 
