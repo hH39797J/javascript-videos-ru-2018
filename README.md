@@ -10,6 +10,7 @@
 ## Содержание
 
 * [События](#%D0%A1%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F)
+  * [MoscowJS 41](#moscowjs-41)
   * [RND\.JS \#6](#rndjs-6)
   * [MinskJS Meetup \#4](#minskjs-meetup-4)
   * [The Rolling Scopes \#46\. Mogilev](#the-rolling-scopes-46-mogilev)
@@ -46,6 +47,20 @@
 
 
 # События
+
+## MoscowJS 41
+
+Событие: https://www.moscowjs.ru/event/moscowjs-41
+
+Дата: **31 мая 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Как я перестал бояться и полюбил DOM API – Ярослав Сергиевский](https://youtu.be/9S8OeCkcUSM) | 23:38 | |
+| [GraphQL и Relay Modern на практике – Алексей Карасев](https://youtu.be/f6JyNlEoWFs) | 22:10 | |
+| [Опыт использования WebRTC – Григорий Кузнецов](https://youtu.be/gQlQwG4vn28) | 23:34 | |
+| [Enterprise ready шаблон для Vue – Никита Соболев](https://youtu.be/SXFrXbhWsVY) | 25:27 | |
+
 
 ## RND.JS #6
 
