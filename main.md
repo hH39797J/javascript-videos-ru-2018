@@ -487,6 +487,20 @@
 | [CSS Grid: когда уже можно?](https://youtu.be/4rctIgzM1mQ) Сергей Полющенков | 47:33 | [:notebook:](https://odessafrontend.github.io/grid/#) |
 
 
+## Krasnodar Frontend: Meetup #2
+
+Событие: https://krddevdays.timepad.ru/event/634499/
+
+Дата: **28 января 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Николай Ильченко - Тестируем пользовательские сценарии вместе с Гермионой](https://youtu.be/FVJqLtW5MAw) | 55:02 | |
+| [Даниил Колесник - Великий Gatsby](https://youtu.be/SYdY5ITp9UM) | 43:41 | [:notebook:](https://docviewer.yandex.ru/view/0/?*=D%2FLwNh01s8kk2JuvrSq0Tu5jWxV7InVybCI6InlhLWRpc2stcHVibGljOi8vUG9ha3c3enR5WVFvTHQ0RlpINHBkK2RKd1BSck1qRmhpbUFsWnVjMnB0VjRFNE5JTGpqclQxRUNDTjRTTm9SY3EvSjZicG1SeU9Kb25UM1ZvWG5EYWc9PSIsInRpdGxlIjoiMi4g0JTQsNC90LjQuNC7INCa0L7Qu9C10YHQvdC40LogLSDQktC10LvQuNC60LjQuMyGIEdhdHNieS5wZGYiLCJ1aWQiOiIwIiwieXUiOiI0NDcyMDU0MzgxNTMxMjE1NjU0Iiwibm9pZnJhbWUiOmZhbHNlLCJ0cyI6MTUzMTIxNzkzNzk2OX0%3D) |
+| [Павел Орлов - Внутри React Native](https://youtu.be/yqSS2lqypho) | 59:09 | [:notebook:](https://docviewer.yandex.ru/view/0/?*=trs%2BAMtlV4%2F7qyCb0jPgdNewPdV7InVybCI6InlhLWRpc2stcHVibGljOi8vUG9ha3c3enR5WVFvTHQ0RlpINHBkeHp6T3Fvd3M3VFMybEY4d3F6MnhrQjRFNE5JTGpqclQxRUNDTjRTTm9SY3EvSjZicG1SeU9Kb25UM1ZvWG5EYWc9PSIsInRpdGxlIjoiMy4g0J%2FQsNCy0LXQuyDQntGA0LvQvtCyIC0g0JLQvdGD0YLRgNC4IFJlYWN0IE5hdGl2ZS5wZGYiLCJ1aWQiOiIwIiwieXUiOiI0NDcyMDU0MzgxNTMxMjE1NjU0Iiwibm9pZnJhbWUiOmZhbHNlLCJ0cyI6MTUzMTIxODA1NDk3MX0%3D) |
+| [Антон Старикович - Курс на веб-компоненты](https://youtu.be/mk4SPLLYGlM) | 21:58 | |
+
+
 ## MinskJS Meetup #3
 
 Событие: https://minskjs.timepad.ru/event/606146/
