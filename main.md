@@ -14,6 +14,20 @@
 
 # События
 
+## Krasnodar Frontend: Meetup #3
+
+Событие: https://krddevdays.timepad.ru/event/717194/
+
+Дата: **02 июня 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Андрей Морозов - Превозмогая Трудности](https://youtu.be/Lvuv4SlTDXo) | 33:07 | [:notebook:](https://docviewer.yandex.ru/view/0/?*=bYFWbzTQCncIKCRNLkuIT1tnnBF7InVybCI6InlhLWRpc2stcHVibGljOi8vUG9ha3c3enR5WVFvTHQ0RlpINHBkeU9TZ0hOeW9ncmU5SzIvMFpaNnd2c29FaEFGTUZBMlUvV2M4Z2swckdkTXEvSjZicG1SeU9Kb25UM1ZvWG5EYWc9PSIsInRpdGxlIjoiMS4g0JDQvdC00YDQtdC4zIYg0JzQvtGA0L7Qt9C%2B0LIgLSDQn9GA0LXQstC%2B0LfQvNC%2B0LPQsNGPINCi0YDRg9C00L3QvtGB0YLQuC5wZGYiLCJ1aWQiOiIwIiwieXUiOiI0NDcyMDU0MzgxNTMxMjE1NjU0Iiwibm9pZnJhbWUiOmZhbHNlLCJ0cyI6MTUzMTIxNTc4MTk2M30%3D) |
+| [Алексей Родионов - Почему PWA и Web Components — будущее веба?](https://youtu.be/Z0JkVGDVQ2k) | 42:15 | [:notebook:](https://docs.google.com/presentation/d/1VY1z-y1YlHf_1LitS38oar57eboDbbbU1K1EqypkfNg/edit#slide=id.p) |
+| [Владимир Федоренко - Не Redux-ом единым. Пробуем TypeR](https://youtu.be/pCNYbcLui-U) | 22:02 | [:notebook:](https://docviewer.yandex.ru/view/0/?*=94u6sH%2F%2BwAVY9xkOaNKNRXG2Mz57InVybCI6InlhLWRpc2stcHVibGljOi8vUG9ha3c3enR5WVFvTHQ0RlpINHBkNXNYbnNMbmZMaW0vWk95L3FoOEpiUVVOUFArL0ZKdmF2WkJubGJRWVNaVXEvSjZicG1SeU9Kb25UM1ZvWG5EYWc9PSIsInRpdGxlIjoiMy4g0JLQu9Cw0LTQuNC80LjRgCDQpNC10LTQvtGA0LXQvdC60L4gLSDQndC1IFJlZHV4LdC%2B0Lwg0LXQtNC40L3Ri9C8LiDQn9GA0L7QsdGD0LXQvCBUeXBlUi5wZGYiLCJ1aWQiOiIwIiwieXUiOiI0NDcyMDU0MzgxNTMxMjE1NjU0Iiwibm9pZnJhbWUiOmZhbHNlLCJ0cyI6MTUzMTIxNTkxMDk5Nn0%3D) |
+| [Евгений Симоненко - Elm, как язык разработки веб-интерфейсов](https://youtu.be/pOZlQbuRZ18) | 54:47 | [:notebook:](https://docviewer.yandex.ru/view/0/?*=GHJshKpOV%2FCvFXRBhmki7wEr7hl7InVybCI6InlhLWRpc2stcHVibGljOi8vUG9ha3c3enR5WVFvTHQ0RlpINHBkNWRIaWF6Zm5CVjVhQWdNM0szdzdyQVNRalI3U0szOC9uY21NRXAydU1XNnEvSjZicG1SeU9Kb25UM1ZvWG5EYWc9PSIsInRpdGxlIjoiNC4g0JXQstCz0LXQvdC40Lkg0KHQuNC80L7QvdC10L3QutC%2BIC0gRWxtLCDQutCw0Log0Y%2FQt9GL0Log0YDQsNC30YDQsNCx0L7RgtC60Lgg0LLQtdCxLdC40L3RgtC10YDRhNC10LnRgdC%2B0LIucGRmIiwidWlkIjoiMCIsInl1IjoiNDQ3MjA1NDM4MTUzMTIxNTY1NCIsIm5vaWZyYW1lIjpmYWxzZSwidHMiOjE1MzEyMTU5NjE2NjR9) |
+
+
 ## MoscowJS 41
 
 Событие: https://www.moscowjs.ru/event/moscowjs-41
