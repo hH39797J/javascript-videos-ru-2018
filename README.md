@@ -10,6 +10,7 @@
 ## Содержание
 
 * [События](#%D0%A1%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F)
+  * [UralJS \#8](#uraljs-8)
   * [Krasnodar Frontend: Meetup \#3](#krasnodar-frontend-meetup-3)
   * [MoscowJS 41](#moscowjs-41)
   * [RND\.JS \#6](#rndjs-6)
@@ -49,6 +50,18 @@
 
 
 # События
+
+## UralJS #8
+
+Событие: https://habr.com/company/skbkontur/blog/417427/
+
+Дата: **05 июля 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Александр Сушко — Не разводите сырость](https://youtu.be/tDceuplb3sI) | 34:43 | [:notebook:](https://slides.com/sashasushko/blob#/) |
+| [Роман Парадеев — Алиса, что ты умеешь?](https://youtu.be/EhZKksgvJeM) | 37:35 | [:notebook:](https://docviewer.yandex.ru/view/0/?*=Y9Lw8t98e9V9LLj3CqlgyQp%2F4x97InVybCI6InlhLWRpc2stcHVibGljOi8vNWExUXpQa2hOK0tZRzRJVjA3RzhIVTRaQ25DYUljWmFzVGU4MzBuUXZKTT0iLCJ0aXRsZSI6InVyYWxqcy1hbGljZS13aGF0LWNhbi15b3UtZG8ucGRmIiwidWlkIjoiMCIsInl1IjoiNzI2MDkwNzAxMTUzMzExMDE0OCIsIm5vaWZyYW1lIjpmYWxzZSwidHMiOjE1MzMxMTIzMzQ5MTB9) |
+
 
 ## Krasnodar Frontend: Meetup #3
 
