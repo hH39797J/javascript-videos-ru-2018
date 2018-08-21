@@ -12,6 +12,7 @@
 * [События](#%D0%A1%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F)
   * [UralJS \#8](#uraljs-8)
   * [GraphQL Workshop by Sara Vieira](#graphql-workshop-by-sara-vieira)
+  * [React Kyiv June Meetup](#react-kyiv-june-meetup)
   * [Krasnodar Frontend: Meetup \#3](#krasnodar-frontend-meetup-3)
   * [MoscowJS 41](#moscowjs-41)
   * [RND\.JS \#6](#rndjs-6)
@@ -77,6 +78,19 @@
 | [GraphQL Workshop by Sara Vieira – Part III](https://youtu.be/yO-mqTln-co) | 45:58 | [:octocat:](https://github.com/SaraVieira/graphql-workshop) |
 | [GraphQL Workshop by Sara Vieira – Part IV](https://youtu.be/fIfRfbjiBUI) | 25:04 | [:octocat:](https://github.com/SaraVieira/graphql-workshop) |
 | [GraphQL Workshop by Sara Vieira – Part V](https://youtu.be/9bz2xKqDkek) | 1:16:15 | [:octocat:](https://github.com/SaraVieira/graphql-workshop) |
+
+
+## React Kyiv June Meetup
+
+Событие: https://www.meetup.com/Kyiv-ReactJS-Meetup/events/249699313/
+
+Дата: **29 июня 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Sara Vieira: State Management in React Apps with Apollo Client](https://youtu.be/7u-6RR_YfdE) | 23:57 | |
+| [Alexey Bondarenko: Cypress. Final testing tool](https://youtu.be/tTUA4vXaIGU) | 27:38 | |
+| [Tim Reznichenko: Better Async with Redux Saga](https://youtu.be/k2sAc1el8xk) | 16:47 | |
 
 
 ## Krasnodar Frontend: Meetup #3
