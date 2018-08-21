@@ -41,6 +41,19 @@
 | [GraphQL Workshop by Sara Vieira – Part V](https://youtu.be/9bz2xKqDkek) | 1:16:15 | [:octocat:](https://github.com/SaraVieira/graphql-workshop) |
 
 
+## React Kyiv June Meetup
+
+Событие: https://www.meetup.com/Kyiv-ReactJS-Meetup/events/249699313/
+
+Дата: **29 июня 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Sara Vieira: State Management in React Apps with Apollo Client](https://youtu.be/7u-6RR_YfdE) | 23:57 | |
+| [Alexey Bondarenko: Cypress. Final testing tool](https://youtu.be/tTUA4vXaIGU) | 27:38 | |
+| [Tim Reznichenko: Better Async with Redux Saga](https://youtu.be/k2sAc1el8xk) | 16:47 | |
+
+
 ## Krasnodar Frontend: Meetup #3
 
 Событие: https://krddevdays.timepad.ru/event/717194/
