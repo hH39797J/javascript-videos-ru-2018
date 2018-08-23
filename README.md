@@ -14,6 +14,7 @@
   * [GraphQL Workshop by Sara Vieira](#graphql-workshop-by-sara-vieira)
   * [React Kyiv June Meetup](#react-kyiv-june-meetup)
   * [Krasnodar Frontend: Meetup \#3](#krasnodar-frontend-meetup-3)
+  * [SPB Angular Meetup 2](#spb-angular-meetup-2)
   * [MoscowJS 41](#moscowjs-41)
   * [RND\.JS \#6](#rndjs-6)
   * [MinskJS Meetup \#4](#minskjs-meetup-4)
@@ -105,6 +106,19 @@
 | [Алексей Родионов - Почему PWA и Web Components — будущее веба?](https://youtu.be/Z0JkVGDVQ2k) | 42:15 | [:notebook:](https://docs.google.com/presentation/d/1VY1z-y1YlHf_1LitS38oar57eboDbbbU1K1EqypkfNg/edit#slide=id.p) |
 | [Владимир Федоренко - Не Redux-ом единым. Пробуем TypeR](https://youtu.be/pCNYbcLui-U) | 22:02 | [:notebook:](https://docviewer.yandex.ru/view/0/?*=94u6sH%2F%2BwAVY9xkOaNKNRXG2Mz57InVybCI6InlhLWRpc2stcHVibGljOi8vUG9ha3c3enR5WVFvTHQ0RlpINHBkNXNYbnNMbmZMaW0vWk95L3FoOEpiUVVOUFArL0ZKdmF2WkJubGJRWVNaVXEvSjZicG1SeU9Kb25UM1ZvWG5EYWc9PSIsInRpdGxlIjoiMy4g0JLQu9Cw0LTQuNC80LjRgCDQpNC10LTQvtGA0LXQvdC60L4gLSDQndC1IFJlZHV4LdC%2B0Lwg0LXQtNC40L3Ri9C8LiDQn9GA0L7QsdGD0LXQvCBUeXBlUi5wZGYiLCJ1aWQiOiIwIiwieXUiOiI0NDcyMDU0MzgxNTMxMjE1NjU0Iiwibm9pZnJhbWUiOmZhbHNlLCJ0cyI6MTUzMTIxNTkxMDk5Nn0%3D) |
 | [Евгений Симоненко - Elm, как язык разработки веб-интерфейсов](https://youtu.be/pOZlQbuRZ18) | 54:47 | [:notebook:](https://docviewer.yandex.ru/view/0/?*=GHJshKpOV%2FCvFXRBhmki7wEr7hl7InVybCI6InlhLWRpc2stcHVibGljOi8vUG9ha3c3enR5WVFvTHQ0RlpINHBkNWRIaWF6Zm5CVjVhQWdNM0szdzdyQVNRalI3U0szOC9uY21NRXAydU1XNnEvSjZicG1SeU9Kb25UM1ZvWG5EYWc9PSIsInRpdGxlIjoiNC4g0JXQstCz0LXQvdC40Lkg0KHQuNC80L7QvdC10L3QutC%2BIC0gRWxtLCDQutCw0Log0Y%2FQt9GL0Log0YDQsNC30YDQsNCx0L7RgtC60Lgg0LLQtdCxLdC40L3RgtC10YDRhNC10LnRgdC%2B0LIucGRmIiwidWlkIjoiMCIsInl1IjoiNDQ3MjA1NDM4MTUzMTIxNTY1NCIsIm5vaWZyYW1lIjpmYWxzZSwidHMiOjE1MzEyMTU5NjE2NjR9) |
+
+
+## SPB Angular Meetup 2
+
+Событие: https://meetup.tinkoff.ru/events/spb-angular-meetup-2
+
+Дата: **31 мая 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Андрей Советкин - Есть ли JavaScript без Angular?](https://youtu.be/pk6hu4lnzoE) | 31:43 | |
+| [Мария Кононенко - Angular, Express, WebSocket и как сделать так, чтобы это всё работало](https://youtu.be/41yE3Gczgso) | 16:04 | |
+| [Александр Коротаев - Коварные улыбки или Не Ангуляром единым](https://youtu.be/ckk_cBtq30U) | 21:08 | [:notebook:](http://lekzd.ru/presentations/emoji/#) |
 
 
 ## MoscowJS 41
