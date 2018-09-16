@@ -1,6 +1,6 @@
 # javascript-videos-ru-2018
 
-Собрание видеозаписей докладов про [JavaScript](https://www.javascript.com/) за 2018 год.
+Собрание видеозаписей докладов про [JavaScript](https://developer.mozilla.org/bm/docs/Web/JavaScript) за 2018 год.
 
 В основном на русском языке.
 
@@ -609,17 +609,4 @@
 | [Илья Кашлаков - Рефакторинг платежного процесса Яндекс.Денег](https://youtu.be/-wM-JmF1-VM) | 31:22 | [:notebook:](https://github.com/piterjs/piterjs.org/blob/gh-pages/events/21/yamoney-refactoring.pdf) |
 
 
-# Учебные материалы
-
-| | | | |
-| --- | :---: | :---: | :---: |
-| [Основы React.js](https://learn.javascript.ru/screencast/react) | JavaScript.ru, Роман Якобчук, Илья Кантор, Скринкаст | 12 видео | 24 января 2018 |
-| [Базовый React - Открытые лекции](https://www.youtube.com/playlist?list=PLvTBThJr861xh3fCMf91Ip5_r6TdR15O9) | Javascript.Ninja, Илья Климов, Ekaterina Lizogubova | 8+ видео | 17 января 2018 (01/20) |
-| [Введение в Flow](https://www.youtube.com/playlist?list=PLvTBThJr861zvILAjREUakZ6E5l7h7lsZ) | Javascript.Ninja, Илья Климов | 17+ видео | 31 декабря 2017 (00/20) |
-
-# Подкастинг
-
-| | | | |
-| --- | :---: | :---: | :---: |
-| [Пятиминутка Angular](https://www.youtube.com/channel/UCQGzS3MitYnnjTRn2vanOmg) | Алексей Охрименко | 10+ видео | 23 января 2018 (#8) |
-
+----
