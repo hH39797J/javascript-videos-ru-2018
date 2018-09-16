@@ -10,6 +10,7 @@
 ## Содержание
 
 * [События](#%D0%A1%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F)
+  * [MoscowJS 42](#moscowjs-42)
   * [UralJS \#8](#uraljs-8)
   * [GraphQL Workshop by Sara Vieira](#graphql-workshop-by-sara-vieira)
   * [React Kyiv June Meetup](#react-kyiv-june-meetup)
@@ -53,6 +54,19 @@
 
 
 # События
+
+## MoscowJS 42
+
+Событие: https://www.moscowjs.ru/event/moscowjs-42
+
+Дата: **23 августа 2018**
+
+| | | |
+| --- | :---: | --- |
+| [RxJS по косточкам – Андрей Алексеев](https://youtu.be/3rEDHnqn-Cw) | 50:26 | [:notebook:](https://aalexeev239.github.io/rxjs-intro/#) |
+| [Svelte: обзор и сравнение – Александр Федотов](https://youtu.be/tgvgCAOR4O8) | 30:50 | [:notebook:](https://cloud.mail.ru/public/LqbY/4yiKD6XZf) |
+| [Взгляд на λ js через линзы​ – Михаил Синяков](https://youtu.be/UbXSKu4lpVA) | 17:05 | [:notebook:](https://cloud.mail.ru/public/Bbij/4zncS8w3S) |
+
 
 ## UralJS #8
 
