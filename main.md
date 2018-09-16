@@ -14,6 +14,19 @@
 
 # События
 
+## MoscowJS 42
+
+Событие: https://www.moscowjs.ru/event/moscowjs-42
+
+Дата: **23 августа 2018**
+
+| | | |
+| --- | :---: | --- |
+| [RxJS по косточкам – Андрей Алексеев](https://youtu.be/3rEDHnqn-Cw) | 50:26 | [:notebook:](https://aalexeev239.github.io/rxjs-intro/#) |
+| [Svelte: обзор и сравнение – Александр Федотов](https://youtu.be/tgvgCAOR4O8) | 30:50 | [:notebook:](https://cloud.mail.ru/public/LqbY/4yiKD6XZf) |
+| [Взгляд на λ js через линзы​ – Михаил Синяков](https://youtu.be/UbXSKu4lpVA) | 17:05 | [:notebook:](https://cloud.mail.ru/public/Bbij/4zncS8w3S) |
+
+
 ## UralJS #8
 
 Событие: https://habr.com/company/skbkontur/blog/417427/
