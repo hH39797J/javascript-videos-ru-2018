@@ -21,6 +21,7 @@
   * [MinskJS Meetup \#4](#minskjs-meetup-4)
   * [The Rolling Scopes \#46\. Mogilev](#the-rolling-scopes-46-mogilev)
   * [AngularKyiv Meetup \#5](#angularkyiv-meetup-5)
+  * [UralJS \#7](#uraljs-7)
   * [SPA Meetup \#4](#spa-meetup-4)
   * [Встреча SPB Frontend, март 2018](#%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B0-spb-frontend-%D0%BC%D0%B0%D1%80%D1%82-2018)
   * [Front\-end MeetUp в Райффайзенбанк](#front-end-meetup-%D0%B2-%D0%A0%D0%B0%D0%B9%D1%84%D1%84%D0%B0%D0%B9%D0%B7%D0%B5%D0%BD%D0%B1%D0%B0%D0%BD%D0%BA)
@@ -202,6 +203,17 @@
 | [Journey to the Core (Alexey Veligura)](https://youtu.be/-6YdaTO1stM) | 25:33 | [:notebook:](https://docs.google.com/presentation/d/126xbOnojhL7k5waowDhaqFnlJYUgjNTyb36br1v2CAI/edit#slide=id.p) |
 | [Angular Push Notifications (Sebastien Vasylets)](https://youtu.be/2ilBbPXTrdM) | 47:35 | |
 
+## UralJS #7
+
+Событие: https://habr.com/company/skbkontur/blog/353548/
+
+Дата: **19 апреля 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Евгений Тихонов - Давайте уже разберемся с DateTime](https://youtu.be/Yc623xx6b3M) | 34:12 | [:notebook:](https://yadi.sk/i/QIBlOgc13UZLf8) |
+| [Иннокентий Шушпанов — Dive into React Native](https://youtu.be/v00ue4vZV30) | 31:55 | [:notebook:](https://yadi.sk/d/E6gs4yZz3ZDq6T) |
+| [Вячеслав Бухарин — Улучшение навигации в SPA](https://youtu.be/Ip1C4rcfdi0) | 19:23 | [:notebook:](https://goo.gl/XVxzz4) |
 
 ## SPA Meetup #4
 
