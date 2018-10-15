@@ -164,6 +164,19 @@
 | [Angular Push Notifications (Sebastien Vasylets)](https://youtu.be/2ilBbPXTrdM) | 47:35 | |
 
 
+## UralJS #7
+
+Событие: https://habr.com/company/skbkontur/blog/353548/
+
+Дата: **19 апреля 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Евгений Тихонов - Давайте уже разберемся с DateTime](https://youtu.be/Yc623xx6b3M) | 34:12 | [:notebook:](https://yadi.sk/i/QIBlOgc13UZLf8) |
+| [Иннокентий Шушпанов — Dive into React Native](https://youtu.be/v00ue4vZV30) | 31:55 | [:notebook:](https://yadi.sk/d/E6gs4yZz3ZDq6T) |
+| [Вячеслав Бухарин — Улучшение навигации в SPA](https://youtu.be/Ip1C4rcfdi0) | 19:23 | [:notebook:](https://slides.com/viacheslavbukharin/deck-2#/) |
+
+
 ## SPA Meetup #4
 
 Событие: https://moscow-spa.timepad.ru/event/692653/
