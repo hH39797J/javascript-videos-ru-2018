@@ -203,6 +203,7 @@
 | [Journey to the Core (Alexey Veligura)](https://youtu.be/-6YdaTO1stM) | 25:33 | [:notebook:](https://docs.google.com/presentation/d/126xbOnojhL7k5waowDhaqFnlJYUgjNTyb36br1v2CAI/edit#slide=id.p) |
 | [Angular Push Notifications (Sebastien Vasylets)](https://youtu.be/2ilBbPXTrdM) | 47:35 | |
 
+
 ## UralJS #7
 
 Событие: https://habr.com/company/skbkontur/blog/353548/
@@ -213,7 +214,8 @@
 | --- | :---: | --- |
 | [Евгений Тихонов - Давайте уже разберемся с DateTime](https://youtu.be/Yc623xx6b3M) | 34:12 | [:notebook:](https://yadi.sk/i/QIBlOgc13UZLf8) |
 | [Иннокентий Шушпанов — Dive into React Native](https://youtu.be/v00ue4vZV30) | 31:55 | [:notebook:](https://yadi.sk/d/E6gs4yZz3ZDq6T) |
-| [Вячеслав Бухарин — Улучшение навигации в SPA](https://youtu.be/Ip1C4rcfdi0) | 19:23 | [:notebook:](https://goo.gl/XVxzz4) |
+| [Вячеслав Бухарин — Улучшение навигации в SPA](https://youtu.be/Ip1C4rcfdi0) | 19:23 | [:notebook:](https://slides.com/viacheslavbukharin/deck-2#/) |
+
 
 ## SPA Meetup #4
 
