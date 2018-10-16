@@ -14,7 +14,7 @@
   * [UralJS \#8](#uraljs-8)
   * [GraphQL Workshop by Sara Vieira](#graphql-workshop-by-sara-vieira)
   * [React Kyiv June Meetup](#react-kyiv-june-meetup)
-  * [СhernivtsiJS](#chernivtsijs)
+  * [СhernivtsiJS](#Сhernivtsijs)
   * [Krasnodar Frontend: Meetup \#3](#krasnodar-frontend-meetup-3)
   * [SPB Angular Meetup 2](#spb-angular-meetup-2)
   * [MoscowJS 41](#moscowjs-41)
