@@ -11,6 +11,7 @@
 
 * [События](#%D0%A1%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F)
   * [MoscowJS 42](#moscowjs-42)
+  * [VinnytsiaJS](#vinnytsiajs)
   * [UralJS \#8](#uraljs-8)
   * [GraphQL Workshop by Sara Vieira](#graphql-workshop-by-sara-vieira)
   * [React Kyiv June Meetup](#react-kyiv-june-meetup)
@@ -66,6 +67,37 @@
 | [Svelte: обзор и сравнение – Александр Федотов](https://youtu.be/tgvgCAOR4O8) | 30:50 | [:notebook:](https://cloud.mail.ru/public/LqbY/4yiKD6XZf) |
 | [Взгляд на λ js через линзы​ – Михаил Синяков](https://youtu.be/UbXSKu4lpVA) | 17:05 | [:notebook:](https://cloud.mail.ru/public/Bbij/4zncS8w3S) |
 
+## VinnytsiaJS
+
+Событие: http://vinnytsiajs.org/
+
+Дата: **21 июля 2018**
+
+**Track A**
+
+| | | |
+| --- | :---: | --- |
+| [Programming rich UIs without JavaScript? Easy-peasy](https://youtu.be/5IQVSJQvlEE) Roman Liutikov | 34:52 |  |
+| [Functional programming: Give it a chance!](https://youtu.be/M-rRkTAj5wg) Dmytro Tereshchenko | 40:43 ||
+| [WebRTC from Zero to Hero](https://youtu.be/PVIrW8XFYdM) Gabriel Micko 🇬🇧 | 40:40 | |
+| [Easy way to WebVR](https://youtu.be/ie00uBz0KQU) Borys Mohyla 🇺🇦 | 35:14 | |
+| [React ...wait for it.... Suspense](https://youtu.be/a2NLPMgtaYc) Yevhen Shemet | 38:33 | |
+| [Clojure - Modern Lisp](https://youtu.be/eb3hDv_CuD8) Roman Liutikov | 42:35 | |
+| [Migration Web(Angular) to Mobile Development(React Native): Real Professional Experience](https://youtu.be/jcBnC8LZHoU) Artem Paliy | 34:48 |  |
+| [Growing as a developer](https://youtu.be/GvgNye4j4vw) Pavel Yukhnovich | 38:06 |  |
+
+
+**Track B**
+
+| | | |
+| --- | :---: | --- |
+| [REST API design good practices](https://youtu.be/yR5sBW6Ii7I) Oleksandr Reshetnik | 41:37 |  |
+| [All in client GraphQL](https://youtu.be/_-NJVzZ9b6g) Helen Zhukova | 37:20 |  |
+| [Time Zones for JS (and not only JS) developers](https://youtu.be/h1jlwEIByLg) Elena Sharovar | 29:59 |  |
+| [Going big with MobX](https://youtu.be/YOfmlbT-s5M) Sergey Kostyrko | 47:49 |  |
+| [Copy/Paste detector for source code on JavaScript](https://youtu.be/oRO6i2JKmDY) Andrii Kucherenko | 38:06 |  |
+| [Make the Web Brighter with the CSS Paint API](https://youtu.be/Gfq5Ut3r6Bw) Vitalii Bobrov | 37:51 |  |
+| [Real server-side rendering with Vue](https://youtu.be/xSKSH27Zczo) Vitalii Savchuk 🇺🇦| 27:58 |  |
 
 ## UralJS #8
 
