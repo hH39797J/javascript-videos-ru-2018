@@ -67,37 +67,38 @@
 | [Svelte: обзор и сравнение – Александр Федотов](https://youtu.be/tgvgCAOR4O8) | 30:50 | [:notebook:](https://cloud.mail.ru/public/LqbY/4yiKD6XZf) |
 | [Взгляд на λ js через линзы​ – Михаил Синяков](https://youtu.be/UbXSKu4lpVA) | 17:05 | [:notebook:](https://cloud.mail.ru/public/Bbij/4zncS8w3S) |
 
+
 ## VinnytsiaJS
 
 Событие: http://vinnytsiajs.org/
 
 Дата: **21 июля 2018**
 
-**Track A**
+*Track A*
 
 | | | |
 | --- | :---: | --- |
-| [Programming rich UIs without JavaScript? Easy-peasy](https://youtu.be/5IQVSJQvlEE) Roman Liutikov | 34:52 |  |
-| [Functional programming: Give it a chance!](https://youtu.be/M-rRkTAj5wg) Dmytro Tereshchenko | 40:43 ||
-| [WebRTC from Zero to Hero](https://youtu.be/PVIrW8XFYdM) Gabriel Micko 🇬🇧 | 40:40 | |
-| [Easy way to WebVR](https://youtu.be/ie00uBz0KQU) Borys Mohyla 🇺🇦 | 35:14 | |
-| [React ...wait for it.... Suspense](https://youtu.be/a2NLPMgtaYc) Yevhen Shemet | 38:33 | |
-| [Clojure - Modern Lisp](https://youtu.be/eb3hDv_CuD8) Roman Liutikov | 42:35 | |
-| [Migration Web(Angular) to Mobile Development(React Native): Real Professional Experience](https://youtu.be/jcBnC8LZHoU) Artem Paliy | 34:48 |  |
-| [Growing as a developer](https://youtu.be/GvgNye4j4vw) Pavel Yukhnovich | 38:06 |  |
+| [Programming rich UIs without JavaScript? Easy-peasy - Roman Liutikov](https://youtu.be/5IQVSJQvlEE) | 34:52 | |
+| [Functional programming: Give it a chance! - Dmytro Tereshchenko](https://youtu.be/M-rRkTAj5wg) | 40:43 | |
+| [WebRTC from Zero to Hero - Gabriel Micko](https://youtu.be/PVIrW8XFYdM) 🇬🇧 | 40:39 | [:notebook:](https://talks.webrtc.rocks/VinnytsiaJS2018/WebRTCFromZeroToHero_PDF.pdf) |
+| [Easy way to WebVR - Borys Mohyla](https://youtu.be/ie00uBz0KQU) 🇺🇦 | 35:12 | |
+| [React … wait for it … Suspense - Yevhen Shemet](https://youtu.be/a2NLPMgtaYc) | 38:32 | [:notebook:](https://present-react-suspense.herokuapp.com/) |
+| [Clojure - Modern Lisp - Roman Liutikov](https://youtu.be/eb3hDv_CuD8) | 42:34 | |
+| [Migration Web (Angular) to Mobile Development (React Native) - Artem Paliy](https://youtu.be/jcBnC8LZHoU) | 34:47 | |
+| [Growing as a developer - Pavel Yukhnovich](https://youtu.be/GvgNye4j4vw) | 38:05 | |
 
-
-**Track B**
+*Track B*
 
 | | | |
 | --- | :---: | --- |
-| [REST API design good practices](https://youtu.be/yR5sBW6Ii7I) Oleksandr Reshetnik | 41:37 |  |
-| [All in client GraphQL](https://youtu.be/_-NJVzZ9b6g) Helen Zhukova | 37:20 |  |
-| [Time Zones for JS (and not only JS) developers](https://youtu.be/h1jlwEIByLg) Elena Sharovar | 29:59 |  |
-| [Going big with MobX](https://youtu.be/YOfmlbT-s5M) Sergey Kostyrko | 47:49 |  |
-| [Copy/Paste detector for source code on JavaScript](https://youtu.be/oRO6i2JKmDY) Andrii Kucherenko | 38:06 |  |
-| [Make the Web Brighter with the CSS Paint API](https://youtu.be/Gfq5Ut3r6Bw) Vitalii Bobrov | 37:51 |  |
-| [Real server-side rendering with Vue](https://youtu.be/xSKSH27Zczo) Vitalii Savchuk 🇺🇦| 27:58 |  |
+| [REST API design good practices - Oleksandr Reshetnik](https://youtu.be/yR5sBW6Ii7I) | 41:36 | |
+| [All in client GraphQL - Helen Zhukova](https://youtu.be/_-NJVzZ9b6g) | 37:19 | |
+| [Time Zones for JS (and not only JS) developers - Elena Sharovar](https://youtu.be/h1jlwEIByLg) | 29:58 | |
+| [Going big with MobX - Sergey Kostyrko](https://youtu.be/YOfmlbT-s5M) | 47:48 | |
+| [Copy/Paste detector for source code on JavaScript - Andrii Kucherenko](https://youtu.be/oRO6i2JKmDY) | 38:05 | [:octocat:](https://github.com/kucherenko/jscpd) |
+| [Make the Web Brighter with the CSS Paint API - Vitalii Bobrov](https://youtu.be/Gfq5Ut3r6Bw) | 37:50 | [:notebook:](https://speakerdeck.com/bobrov1989/make-the-web-brighter-with-the-css-paint-api) |
+| [Real server-side rendering with Vue - Vitalii Savchuk](https://youtu.be/xSKSH27Zczo) 🇺🇦| 27:57 | [:notebook:](https://esvit.github.io/presentation-nuxt/#) |
+
 
 ## UralJS #8
 
