@@ -116,15 +116,15 @@
 
 | | | |
 | --- | :---: | --- |
-| [How to adopt a project with stack which you don't know](https://youtu.be/N7Jcnd9n8m8) Anton Yatseniuk 🇺🇦 | 29:12 |  |
-| [Serverless for frontend developers](https://youtu.be/4xLis-ca4QY) Aleksandar Simovic 🇬🇧 | 27:21 |  |
-| [This terrible word Deadline](https://youtu.be/LLGUAyWZhjc) Vasilika Klimova 🇬🇧 | 35:26 |  |
-| [Как React-Native перевернул наше представление о нативных приложениях](https://youtu.be/99Z9Q6jHfhg) Ilya Ivanov | 36:38 |  |
-| [Angular applications with Redux](https://youtu.be/mMdHbr5aw0o) Anastasiia Nedbailo | 7:50 |  |
-| [Life with Expo.io](https://youtu.be/mn6bDJ4w9mI) Terry Sahaid 🇺🇦 |  12:32 |  |
-| [Просто о WebAssembly](https://youtu.be/anVHSZtJhfc) Sergey Rubanov | 32:34 |  |
+| [How to adopt a project with stack which you don't know](https://youtu.be/N7Jcnd9n8m8) Anton Yatseniuk 🇺🇦 | 29:12 | [:notebook:](https://chernivtsi.js.org/how-to-adopt-project/) |
+| [Serverless for frontend developers](https://youtu.be/4xLis-ca4QY) Aleksandar Simovic 🇬🇧 | 27:21 | [:notebook:](https://chernivtsi.js.org/serverless-for-frontend-developers/) |
+| [This terrible word Deadline](https://youtu.be/LLGUAyWZhjc) Vasilika Klimova 🇬🇧 | 35:26 | [:notebook:](https://chernivtsi.js.org/this-terrible-word-deadline/) |
+| [Как React-Native перевернул наше представление о нативных приложениях](https://youtu.be/99Z9Q6jHfhg) Ilya Ivanov | 36:38 | [:notebook:](https://chernivtsi.js.org/react-native-and-native-apps/) |
+| [Angular applications with Redux](https://youtu.be/mMdHbr5aw0o) Anastasiia Nedbailo | 7:50 | [:notebook:](https://chernivtsi.js.org/angular-apps-with-redux/) |
+| [Life with Expo.io](https://youtu.be/mn6bDJ4w9mI) Terry Sahaid 🇺🇦 |  12:32 | [:notebook:](https://chernivtsi.js.org/life-with-expo/) |
+| [Просто о WebAssembly](https://youtu.be/anVHSZtJhfc) Sergey Rubanov | 32:34 | [:notebook:](https://chernivtsi.js.org/webassembly-simplified/) |
 | [О дивный новый JS–мир](https://youtu.be/uNKuJANi4RU) Helen Zhukova | 25:20 |  |
-| [Make checkout great again](https://youtu.be/EZofZgflsDk) Anton Nemtsev | 45:48 |  |
+| [Make checkout great again](https://youtu.be/EZofZgflsDk) Anton Nemtsev | 45:48 | [:notebook:](https://chernivtsi.js.org/payment-request-api/) |
 
 
 ## Krasnodar Frontend: Meetup #3
