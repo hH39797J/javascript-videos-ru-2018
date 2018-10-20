@@ -15,6 +15,7 @@
   * [UralJS \#8](#uraljs-8)
   * [GraphQL Workshop by Sara Vieira](#graphql-workshop-by-sara-vieira)
   * [React Kyiv June Meetup](#react-kyiv-june-meetup)
+  * [СhernivtsiJS](#Сhernivtsijs)
   * [Krasnodar Frontend: Meetup \#3](#krasnodar-frontend-meetup-3)
   * [SPB Angular Meetup 2](#spb-angular-meetup-2)
   * [MoscowJS 41](#moscowjs-41)
@@ -138,6 +139,25 @@
 | [Sara Vieira: State Management in React Apps with Apollo Client](https://youtu.be/7u-6RR_YfdE) | 23:57 | |
 | [Alexey Bondarenko: Cypress. Final testing tool](https://youtu.be/tTUA4vXaIGU) | 27:38 | |
 | [Tim Reznichenko: Better Async with Redux Saga](https://youtu.be/k2sAc1el8xk) | 16:47 | |
+
+
+## СhernivtsiJS
+
+Событие: https://chernivtsi.js.org/
+
+Дата: **23 июня 2018**
+
+| | | |
+| --- | :---: | --- |
+| [How to adopt a project with stack which you don't know](https://youtu.be/N7Jcnd9n8m8) Anton Yatseniuk 🇺🇦 | 29:11 | [:notebook:](https://chernivtsi.js.org/how-to-adopt-project/) |
+| [Serverless for frontend developers](https://youtu.be/4xLis-ca4QY) Aleksandar Simovic 🇬🇧 | 27:20 | [:notebook:](https://chernivtsi.js.org/serverless-for-frontend-developers/) |
+| [This terrible word Deadline](https://youtu.be/LLGUAyWZhjc) Vasilika Klimova 🇬🇧 | 35:25 | [:notebook:](https://chernivtsi.js.org/this-terrible-word-deadline/) |
+| [Как React-Native перевернул наше представление о нативных приложениях](https://youtu.be/99Z9Q6jHfhg) Ilya Ivanov | 36:37 | [:notebook:](https://chernivtsi.js.org/react-native-and-native-apps/) |
+| [Angular applications with Redux](https://youtu.be/mMdHbr5aw0o) Anastasiia Nedbailo | 7:49 | [:notebook:](https://chernivtsi.js.org/angular-apps-with-redux/) |
+| [Life with Expo.io](https://youtu.be/mn6bDJ4w9mI) Terry Sahaid 🇺🇦 |  12:31 | [:notebook:](https://chernivtsi.js.org/life-with-expo/) |
+| [Просто о WebAssembly](https://youtu.be/anVHSZtJhfc) Sergey Rubanov | 32:33 | [:notebook:](https://chernivtsi.js.org/webassembly-simplified/) |
+| [О дивный новый JS–мир](https://youtu.be/uNKuJANi4RU) Helen Zhukova | 25:19 |  |
+| [Make checkout great again](https://youtu.be/EZofZgflsDk) Anton Nemtsev | 45:47 | [:notebook:](https://chernivtsi.js.org/payment-request-api/) |
 
 
 ## Krasnodar Frontend: Meetup #3
